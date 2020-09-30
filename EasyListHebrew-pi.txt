@@ -1,0 +1,836 @@
+127.0.0.1	 213.8.137.51
+127.0.0.1	 activated.co.il
+127.0.0.1	 activetrail.biz
+127.0.0.1	 adland.co.il
+127.0.0.1	 clickon.co.il
+127.0.0.1	 erate.co.il
+127.0.0.1	 gitam.1host.co.il
+127.0.0.1	 jwtdigital-media.co.il
+127.0.0.1	 media.adextent.com
+127.0.0.1	 media.foxweb.co.il
+127.0.0.1	 mimgoal.com
+127.0.0.1	 mitbahon.co.il
+127.0.0.1	 next-net.co.il
+127.0.0.1	 talkahead.com
+127.0.0.1	 trustmedia.co.il
+127.0.0.1	 wee.co.il
+127.0.0.1	 wesell.co.il
+127.0.0.1	 ws.walla.co.il
+#
+# *** Popup Adservers *** #
+#
+127.0.0.1	 campaign.*.co.il
+127.0.0.1	 campaigns.*.co.il
+127.0.0.1	 dcampaigns.*.co.il
+#
+127.0.0.1	 213.8.137.51
+127.0.0.1	 3dots.co.il,domain=~maple-team.com
+127.0.0.1	 activated.digital
+127.0.0.1	 activetrail.biz
+127.0.0.1	 adland.co.il
+127.0.0.1	 adson.biz
+127.0.0.1	 adventuredigital.co.il
+127.0.0.1	 afaktrio.com
+127.0.0.1	 amazing-offers.co.il
+127.0.0.1	 anetkin.biz
+127.0.0.1	 anetkin.co.il
+127.0.0.1	 anetkin.org
+127.0.0.1	 asakimerp.co.il
+127.0.0.1	 azadv.co.il
+127.0.0.1	 best-offers.co.il
+127.0.0.1	 blanco-adv.co.il
+127.0.0.1	 bsdigital.co.il
+127.0.0.1	 bsdygital.co.il
+127.0.0.1	 cdn.mdigital.co.il
+127.0.0.1	 clickon.co.il
+127.0.0.1	 cooloffers.co.il
+127.0.0.1	 expert-offers.com
+127.0.0.1	 gim.co.il
+127.0.0.1	 gin.co.il
+127.0.0.1	 gitam.co.il
+127.0.0.1	 gnsdigital.co.il
+127.0.0.1	 great-offers.co.il
+127.0.0.1	 greenlead.co.il
+127.0.0.1	 ha-deal.co.il
+127.0.0.1	 landing-page.mobi
+127.0.0.1	 layer.co.il
+127.0.0.1	 like-it.co.il
+127.0.0.1	 mashrokit.info
+127.0.0.1	 media-goal.co.il
+127.0.0.1	 mimgoal.com
+127.0.0.1	 mini-sites.net
+127.0.0.1	 mitbahon.co.il
+127.0.0.1	 namesakeoscilloscopemarquis.com
+127.0.0.1	 oceanmedia.co.il
+127.0.0.1	 offers-land.com
+127.0.0.1	 ok-server.co.il
+127.0.0.1	 online-offer.co.il
+127.0.0.1	 osef.co.il
+127.0.0.1	 padv.co.il
+127.0.0.1	 pigment-adv.co.il
+127.0.0.1	 pisrael.com
+127.0.0.1	 rpe.co.il
+127.0.0.1	 sekindo.com
+127.0.0.1	 tld.walla.co.il
+127.0.0.1	 treemedia.co.il
+127.0.0.1	 trustmedia.co.il
+127.0.0.1	 um-per.com
+127.0.0.1	 unbouncepages.com
+127.0.0.1	 webteam.co.il
+127.0.0.1	 wee.co.il
+127.0.0.1	 wesell.co.il
+#
+# *** 3rd party ads *** #
+#
+127.0.0.1	 shorter.co.il/js/fp.js.php
+#
+127.0.0.1	 07af698ea8a2a5a789b79c2d75ba83d3.com
+127.0.0.1	 102320fef81194c7b0c7c6bbe64d845d.com
+127.0.0.1	 11a5ade414a6a4b9969685db9e96b193.com
+127.0.0.1	 122949d67b35f6c3372bfa3b4a3b8a1e.com
+127.0.0.1	 166460e61382a8ab15094a0fb111cc1b.com
+127.0.0.1	 1f50dd61ec6bc6a1b98ae412ea4d812f.com
+127.0.0.1	 21635bfdc5175ce523de634889b83c39.com
+127.0.0.1	 22e83777b5823d5a95d63948737fb965.com
+127.0.0.1	 29aac8974ae5d04e1df65c27f4405615.com
+127.0.0.1	 48c5d27faef8b635e99e00ef9b5fd0cd.com
+127.0.0.1	 530d4fe852707f9c754106c40642dbba.com
+127.0.0.1	 65c95461c6e393d6c0d692e3dfb1bcb0.com
+127.0.0.1	 7795bfb724d4b16306823af218bc11fd.com
+127.0.0.1	 d8737fad2b67f17837092e422ff435c7.com
+127.0.0.1	 ea737463bdf5d652a88657bc3846c56b.com
+#
+127.0.0.1	 agecdn.me
+127.0.0.1	 akamhd.com
+127.0.0.1	 amazuk.com
+127.0.0.1	 apiscdn.com
+127.0.0.1	 asermtawlfs.xyz
+127.0.0.1	 bakkels.com
+127.0.0.1	 bargainpricedude.com
+127.0.0.1	 beerforthepipl.com
+127.0.0.1	 benchmarkingstuff.com
+127.0.0.1	 bluesli.de
+127.0.0.1	 bool.bid
+127.0.0.1	 boostquery.com
+127.0.0.1	 boritra.com
+127.0.0.1	 bostonparadise.com
+127.0.0.1	 bostonwall.com
+127.0.0.1	 bulgarine.com
+127.0.0.1	 cdnic.site
+127.0.0.1	 cloodfront.com
+127.0.0.1	 cloudbit.rocks
+127.0.0.1	 cloudboost.co.il
+127.0.0.1	 cloudflame.co.il
+127.0.0.1	 corruptcy.com
+127.0.0.1	 dascasdw.xyz
+127.0.0.1	 depresis.com
+127.0.0.1	 dfskgmrepts.com
+127.0.0.1	 enstatic.net
+127.0.0.1	 goodluckblockingthis.com
+127.0.0.1	 hallucius.com
+127.0.0.1	 havinates.com
+127.0.0.1	 helpkidsnow.xyz
+127.0.0.1	 heravda.com
+127.0.0.1	 houstion.com
+127.0.0.1	 hulahooprect.com
+127.0.0.1	 ifreedns.org
+127.0.0.1	 ilovedomains.pw
+127.0.0.1	 indeterman.com
+127.0.0.1	 iystorage.com
+127.0.0.1	 jacquarter.com
+127.0.0.1	 jor-el.net
+127.0.0.1	 jquerycdn.co.il
+127.0.0.1	 jquerymin.co.il
+127.0.0.1	 jscloudnow.com
+127.0.0.1	 klnrew.site
+127.0.0.1	 kmrnkjer.xyz
+127.0.0.1	 kofpag.com
+127.0.0.1	 kozikar.com
+127.0.0.1	 loopmaze.com
+127.0.0.1	 maskoter.com
+127.0.0.1	 mohengdu.com
+127.0.0.1	 nepohita.com
+127.0.0.1	 newyorkwhil.com
+127.0.0.1	 njkiho.info
+127.0.0.1	 nothering.com
+127.0.0.1	 nullenabler.com
+127.0.0.1	 numberthreebear.com
+127.0.0.1	 oversailor.com
+127.0.0.1	 portavivo.com
+127.0.0.1	 pullcdn.pw
+127.0.0.1	 regi.site
+127.0.0.1	 regi.tech
+127.0.0.1	 retrayan.com
+127.0.0.1	 rkgnmwre.site
+127.0.0.1	 shakesider.com
+127.0.0.1	 sharedcdn.site
+127.0.0.1	 sprawley.com
+127.0.0.1	 srvjar.com
+127.0.0.1	 storagecdncloud.co
+127.0.0.1	 syntetech.com
+127.0.0.1	 texasboston.com
+127.0.0.1	 typication.com
+127.0.0.1	 umamdmo.com
+127.0.0.1	 urodakt.com
+127.0.0.1	 uvinory.com
+127.0.0.1	 uzotli.com
+127.0.0.1	 webeatyouradblocker.com
+127.0.0.1	 wodoka.com
+127.0.0.1	 yathmoth.com
+127.0.0.1	 ymakeseb.club
+127.0.0.1	 zinovila.com
+127.0.0.1	 zipodita.com
+#
+# *** Popup sites *** #
+#
+127.0.0.1	 1kdailyprofit.co
+127.0.0.1	 3dfuckdoll.com
+127.0.0.1	 adsturn.com
+127.0.0.1	 ajgffcat.com
+127.0.0.1	 ashleymadison.com
+127.0.0.1	 ashleyrnadison.com
+127.0.0.1	 bestdateshere22.com
+127.0.0.1	 big-shot.co.il
+127.0.0.1	 biggiftclub.online
+127.0.0.1	 bogdot.co.il
+127.0.0.1	 browsergames2018.com
+127.0.0.1	 cellebrate.mobi
+127.0.0.1	 cglms.com
+127.0.0.1	 clmbtrk.com
+127.0.0.1	 com-1notification.co
+127.0.0.1	 com-cloud.co
+127.0.0.1	 com-contact.co
+127.0.0.1	 com-item.today
+127.0.0.1	 daily-prizes.men
+127.0.0.1	 date-il.com
+127.0.0.1	 datetonight.xyz
+127.0.0.1	 datingfantasies11.com
+127.0.0.1	 desktoptrack.com
+127.0.0.1	 dingdong.co.il
+127.0.0.1	 easygirls.info
+127.0.0.1	 eb.anastasiadate.com
+127.0.0.1	 etrader.co.il
+127.0.0.1	 ew-casual-dating.com
+127.0.0.1	 expresswin.top
+127.0.0.1	 facebookdating.link
+127.0.0.1	 fbookisrael.com
+127.0.0.1	 fcukgirls.net
+127.0.0.1	 find-best-datings.com
+127.0.0.1	 findsexguide.com
+127.0.0.1	 findyourlovemate.com
+127.0.0.1	 flirthere1.com
+127.0.0.1	 forexglobal.top
+127.0.0.1	 freehookup.link
+127.0.0.1	 freehookupspace.com
+127.0.0.1	 fringantlarn8.live
+127.0.0.1	 giftandmore.club
+127.0.0.1	 gilorly.leadpages.co
+127.0.0.1	 hadartal.com/slim/*
+127.0.0.1	 hamashtap.co.il
+127.0.0.1	 healthreports.co.il
+127.0.0.1	 hekeroyot.com
+127.0.0.1	 hook2up6.top
+127.0.0.1	 hookup-clubs.com
+127.0.0.1	 hookupsonline.com
+127.0.0.1	 horserace.co.il
+127.0.0.1	 hotdate.co.il
+127.0.0.1	 iforex.co.il/landing_pages
+127.0.0.1	 ihct.mx
+127.0.0.1	 ilikethis.info
+127.0.0.1	 imarkets.co.il
+127.0.0.1	 imitrk.com
+127.0.0.1	 ineed2fuck.com
+127.0.0.1	 instahookups5.com
+127.0.0.1	 iphone7pluswin.com
+127.0.0.1	 lastpage.pw
+127.0.0.1	 leshem.info
+127.0.0.1	 losittooday.info
+127.0.0.1	 lotocash.co.il
+127.0.0.1	 makealine.club
+127.0.0.1	 makelove.co.il
+127.0.0.1	 medical-rights.co.il
+127.0.0.1	 meet-nowhere12.com
+127.0.0.1	 mibilezone.com
+127.0.0.1	 mobilesecureid.com
+127.0.0.1	 mymobilenotification.com
+127.0.0.1	 mystreamadpush.link
+127.0.0.1	 ohmydating.com
+127.0.0.1	 onlineproxyfree.com
+127.0.0.1	 only2date.com
+127.0.0.1	 optmz.online
+127.0.0.1	 pckeeper.software
+127.0.0.1	 pcnotification.com
+127.0.0.1	 perfectpro.co.il
+127.0.0.1	 premium-offers.space
+127.0.0.1	 press2win.online
+127.0.0.1	 quick-date.xyz
+127.0.0.1	 rateonclick.com
+127.0.0.1	 reimageplus.com
+127.0.0.1	 s-iwantyou.com
+127.0.0.1	 setup-prize.top
+127.0.0.1	 sex-party.co.il
+127.0.0.1	 sexdating123.com
+127.0.0.1	 sirtonim.me
+127.0.0.1	 slutsroom.com
+127.0.0.1	 social-hookup.com
+127.0.0.1	 sportapp.co.il
+127.0.0.1	 strauss-water-campaign.co.il
+127.0.0.1	 streamin.to
+127.0.0.1	 tipo.mobi
+127.0.0.1	 trackappmedia.com
+127.0.0.1	 tracknotify.com
+127.0.0.1	 trendsonline.me/
+127.0.0.1	 triviasms.com
+127.0.0.1	 triviaworld.club
+127.0.0.1	 truegifstandmore.com
+127.0.0.1	 viediil.com
+127.0.0.1	 winitnow.mobi
+127.0.0.1	 winnerspinz.com
+127.0.0.1	 yazizim.com
+127.0.0.1	 your-sexy-match.com
+#
+#-----------------------Site specific ad blocking rules-----------------------#
+#
+# * Walla# NEWS * #
+/^(?#[a-zA-Z0-9\-]+\:\/+([^\/\:\.]+\.)*((gov|idf|muni|ac|k12|net)\.il|(google|blogspot|phpbb|minifier|enable|nagich|nagishplus|nagishly|livedns|emap|23tv|glz|icast|ecast|mediacast|live1|siz|gif|meduzot|telesport|teleline|livegames|2net|weather2day|mekorotapp|e-vrit|fav|slash|rabbi|kaplanopensource|systematics|israelcoronamap|icdn|wcdn|wallanews|wallashops|wallatours|wallaart|wallaprint|hamal|sheee|globes|madlan|yad2|mipo|b144|bezeq|yes|fxp|nick|d|maariv|iol|dominos|magazineitsuv|doctors|mishpati|arcdb|zebarur|wlcdn|linicom|erate)\.co\.il|(kan|makan|iba|oref|parks|imj|nli|bh|isoc|hebrew-academy|kineret|teva|zavit|ip6|profile)\.org\.il)\.?([\/\:]|$))^[a-zA-Z0-9\-]+\:\/+[^\/\:]+\.il\.?([\/\:]|$)/$third-party,domain=6days.walla.co.il|animals.walla.co.il|astrology.walla.co.il|b.walla.co.il|buzzit.walla.co.il|calendar.walla.co.il|cars.walla.co.il|celebs.walla.co.il|e.walla.co.il|elections.walla.co.il|euro.walla.co.il|fashion.walla.co.il|finance.walla.co.il|food.walla.co.il|forums.walla.co.il|fun.walla.co.il|healthy.walla.co.il|home.walla.co.il|judaism.walla.co.il|kids.walla.co.il|mag.walla.co.il|maps.walla.co.il|milon.walla.co.il|movies.walla.co.il|mundial.walla.co.il|nadlan.walla.co.il|news.walla.co.il|nick.walla.co.il|olympics.walla.co.il|search.walla.co.il|sports.walla.co.il|tags.walla.co.il|tech.walla.co.il|translate.walla.co.il|travel.walla.co.il|tv-guide.walla.co.il|tv.walla.co.il|usaelections.walla.co.il|viva.walla.co.il|vod.walla.co.il|weather.walla.co.il|www.walla.co.il
+/^(?#[a-zA-Z0-9\-]+\:\/+([^\/\:\.]+\.)*(facebook|fbcdn|dmcdn|slideshare|cloudfront|cloudflare|fastly|fastlylb|gammacdn|edgecastcdn|footprint|incapdns|cloudapp|brightcove|jsdelivr|akamai|akamaihd|akamaized|akamaiedge|akahost|ctedgecdn|2mdn|edgesuite|azurewebsites|azureedge|windows|hwcdn|zencdn|llnwd|boltdns|msecnd|bitsngo|nocookie|datatables|docdroid|algolia|anvato|maphub|dwcdn|twitchcdn|ttvnw|jtvnw|ampproject|dailyuploads|recaptcha|yastatic|behance|edgefonts|typekit|darksky|deviantart|8ch|vodgc|hlsplayer|streamlock|web-view|streamgates|cdnwz|playgorithm|vidiom|radwarecloud|f-static|chartbeat|doubleclick|advsnx|sc-static|artipbox)\.net\.?([\/\:]|$))^[a-zA-Z0-9\-]+\:\/+[^\/\:]+\.net\.?([\/\:]|$)/$third-party,domain=6days.walla.co.il|animals.walla.co.il|astrology.walla.co.il|b.walla.co.il|buzzit.walla.co.il|calendar.walla.co.il|cars.walla.co.il|celebs.walla.co.il|e.walla.co.il|elections.walla.co.il|euro.walla.co.il|fashion.walla.co.il|finance.walla.co.il|food.walla.co.il|forums.walla.co.il|fun.walla.co.il|healthy.walla.co.il|home.walla.co.il|judaism.walla.co.il|kids.walla.co.il|mag.walla.co.il|maps.walla.co.il|milon.walla.co.il|movies.walla.co.il|mundial.walla.co.il|nadlan.walla.co.il|news.walla.co.il|nick.walla.co.il|olympics.walla.co.il|search.walla.co.il|sports.walla.co.il|tags.walla.co.il|tech.walla.co.il|translate.walla.co.il|travel.walla.co.il|tv-guide.walla.co.il|tv.walla.co.il|usaelections.walla.co.il|viva.walla.co.il|vod.walla.co.il|weather.walla.co.il|www.walla.co.il
+/^(?#[a-zA-Z0-9\-]+\:\/+([^\/\:\.]+\.)*(flowplayer|amara|h5p|d3js|ampproject|promisejs|backbonejs|angularjs|dojotoolkit|openstreetmap|wmflabs|wikimapia|wikimedia|wikipedia|w3|schema|archive|mozilla|documentcloud|w|mathjax|userway|pannellum|tmdb|muses|postimage|imgsafe|4chan|4channel|4cdn|telegram|olympic|pbs|pbskids|npr|ntp|gnu|creativecommons|eff|icann|iana|wikileaks|ourworldindata|cdn77|browser-update|consensu|wp-accessibility|covid19maps|coronaisrael)\.org\.?([\/\:]|$))^[a-zA-Z0-9\-]+\:\/+[^\/\:]+\.org\.?([\/\:]|$)/$third-party,domain=6days.walla.co.il|animals.walla.co.il|astrology.walla.co.il|b.walla.co.il|buzzit.walla.co.il|calendar.walla.co.il|cars.walla.co.il|celebs.walla.co.il|e.walla.co.il|elections.walla.co.il|euro.walla.co.il|fashion.walla.co.il|finance.walla.co.il|food.walla.co.il|forums.walla.co.il|fun.walla.co.il|healthy.walla.co.il|home.walla.co.il|judaism.walla.co.il|kids.walla.co.il|mag.walla.co.il|maps.walla.co.il|milon.walla.co.il|movies.walla.co.il|mundial.walla.co.il|nadlan.walla.co.il|news.walla.co.il|nick.walla.co.il|olympics.walla.co.il|search.walla.co.il|sports.walla.co.il|tags.walla.co.il|tech.walla.co.il|translate.walla.co.il|travel.walla.co.il|tv-guide.walla.co.il|tv.walla.co.il|usaelections.walla.co.il|viva.walla.co.il|vod.walla.co.il|weather.walla.co.il|www.walla.co.il
+/^(?#[a-zA-Z0-9\-]+\:\/+([^\/\:\.]+\.)*(google|gstatic|googleapis|jquery|youtube|ytimg|facebook|fbsbx|twitter|twimg|instagram|cdninstagram|pinterest|pinimg|tumblr|giphy|vimeo|vimeocdn|dailymotion|flickr|staticflickr|soundcloud|sndcdn|scribd|scribdassets|sharethis|addthis|addthisedge|addthiscdn|reddit|redditmedia|redditstatic|redditgifts|linkedin|licdn|fontawesome|image-maps|cloudflare|bootstrapcdn|unpkg|cdnjs|stackpathdns|stackpathcdn|maxcdn|maxcdn-edge|netdna-ssl|netdna-cdn|kxcdn|ssl-cdn|muicss|tinymce|createjs|github|githubusercontent|aspnetcdn|azure|amazonaws|elasticbeanstalk|rackcdn|jwplayer|jwpcdn|jwpltx|jwpsrv|jwplatform|brightcove|brightcovecdn|flowplayer|foliovision|streamable|omnystudio|omnycontent|mixcloud|iheart|bandcamp|bcbits|podbean|buzzsprout|nobexpartners|podtail|spreaker|simplecast|spotify|vocaroo|embedly|iframely|snapwidget|thinglink|infogram|highcharts|printfriendly|algolianet|gravatar|unsplash|freepik|svgur|svgshare|icons8|iconfinder|iconarchive|iconscout|flaticon|kindpng|pngitem|imgur|imgflip|gifer|gfycat|tenor|disqus|disquscdn|disqusservice|oneall|oneallcdn|tapatalk|tapatalk-cdn|mapbox|maptiler|mapquest|arcgis|arcgisonline|esri|here|ted|tedcdn|kickstarter|riddle|strawpoll|9gag|9cache|imageshack|tinypic|photobox|photobucket|gifyu|makeagif|reactiongifs|gifbin|gif-finder|kym-cdn|gyazo|prntscr|pastebin|rawgit|rawgithub|knockoutjs|gridstackjs|ravenjs|liveleak|metacafe|mcstatic|ign|ignimgs|365scores|buzzfeed|digg|stumbleupon|mix|getpocket|blogspot|wordpress|wp|videopress|wptavern|livejournal|withgoogle|googlegroups|googleusercontent|googlevideo|ggpht|youtube-nocookie|appspot|firebaseio|firebaseapp|libring|hcaptcha|paypal|paypalobjects|amazon|media-amazon|media-imdb|ebay|apple|microsoft|live|bing|msn|yahoo|yimg|yahooapis|duckduckgo|yandex|webflow|rtlcss|dropbox|dropboxusercontent|dropboxstatic|dropbox-dns|timeanddate|momentjs|weather|accuweather|theweathernetwork|sat24|adobe|onesignal|livefyre|pushwoosh|tinypass|addtoany|addthisevent|addevent|addtocalendar|sumo|sumome|chatango|bitly|tinyurl|ipcamlive|playstation|discordapp|mixer|tiktok|tiktokcdn|muscdn|ibytedtos|deviantart|firefoxusercontent|box|feedly|feedburner|phpbb|vk|userapi|whatsapp|vroptimal-3dx-assets|bbc|cnn|nytimes|nyt|today|fifa|uefa|nba|turner|xkcd|mtvnservices|cc|tmz|bugsnag|zoro|hebcal|fontsproject|kayma|kayma-dashboards|kampyle|vicomi|openweb|kaltura|cincopa|avplayer|vidnt|peer5|h-cdn|bynetcdn|cdnwiz|best-tv|viewbix|streamrail|smv-cdn|cloudvideoplatform|waze|hunchbots|jeeng|cloudinary|sphereup|poloriz|applicaster|cloudwm|cloudwm-waf|negishim|accessibe|accessibeapp|acsbap|vollotech|mk-sense|shortaudition|spaceil|clear-map|segmanta|opinionstage|playbuzz|apester|qmerce|outbrain|taboola|taboolasyndication|googleoptimize|google-analytics|googletagservices|googletagmanager|googleadservices|googlesyndication|dynamicyield|scorecardresearch|serving-sys|chartbeat|exposebox|coralogix|browsiprod|ip-api|petametrics|cooladata|hotjar|pusher|carto|fortvision|fortcdn|getsentry|trackjs|gamezhero|nick|nickjr|teennick|travelriskmap|sinclairstoryline|fresnobee|nbcchicago|magazina-il|raxcdn|pagewiz|pas-rahav|aniview|adnxs|sekindo)\.com\.?([\/\:]|$))^[a-zA-Z0-9\-]+\:\/+[^\/\:]+\.com\.?([\/\:]|$)/$third-party,domain=6days.walla.co.il|animals.walla.co.il|astrology.walla.co.il|b.walla.co.il|buzzit.walla.co.il|calendar.walla.co.il|cars.walla.co.il|celebs.walla.co.il|e.walla.co.il|elections.walla.co.il|euro.walla.co.il|fashion.walla.co.il|finance.walla.co.il|food.walla.co.il|forums.walla.co.il|fun.walla.co.il|healthy.walla.co.il|home.walla.co.il|judaism.walla.co.il|kids.walla.co.il|mag.walla.co.il|maps.walla.co.il|milon.walla.co.il|movies.walla.co.il|mundial.walla.co.il|nadlan.walla.co.il|news.walla.co.il|nick.walla.co.il|olympics.walla.co.il|search.walla.co.il|sports.walla.co.il|tags.walla.co.il|tech.walla.co.il|translate.walla.co.il|travel.walla.co.il|tv-guide.walla.co.il|tv.walla.co.il|usaelections.walla.co.il|viva.walla.co.il|vod.walla.co.il|weather.walla.co.il|www.walla.co.il
+/^(?#[a-zA-Z0-9\-]+\:\/+([^\/\:]+\.(il|com|net|org|gov|mil|edu|int|(ac|nhs)\.uk)|[\.0-9]+|([^\/\:\.]+\.)*(spot\.im|spots\.im|omny\.fm|github\.io|socket\.io|codepen\.io|polyfill\.io|embed\.ly|iframe\.ly|infogr\.am|flourish\.studio|flourish\.rocks|uri\.sh|po\.st|plyr\.io|periscope\.tv|pscp\.tv|vine\.co|popkey\.co|tenor\.co|redd\.it|ibb\.co|vgy\.me|postimg\.cc|imageshack\.us|prnt\.sc|imagesup\.co|weserv\.nl|telesco\.pe|powr\.io|simplecast\.fm|anchor\.fm|pippa\.io|last\.fm|scdn\.co|adobe\.io|lmao\.ninja|disease\.sh|twitch\.tv|vid\.me|h-cdn\.co|minute\.ly|vttp\.co|tldw\.me|feeder\.co|del\.icio\.us|telegram\.me|yandex\.ru|dailymail\.co\.uk|cnn\.io|bit\.ly|goo\.gl|g\.co|youtu\.be|t\.co|t\.me|fb\.me|m\.me|instagr\.am|wa\.me|amzn\.to|git\.io|docdro\.id|arcg\.is|ow\.ly|disq\.us|tiny\.cc|ex\.co|nagishly\.co|user1st\.info|nickjr\.tv|logidea\.info|zoomanalytics\.co|firstimpression\.io|rtk\.io|trb\.tv|ren\.tv|atom-data\.io|sentry\.io|outbid\.io))\.?([\/\:]|$))^[^\/\:\.]+\:\/+[^\/\:\.]/$third-party,domain=6days.walla.co.il|animals.walla.co.il|astrology.walla.co.il|b.walla.co.il|buzzit.walla.co.il|calendar.walla.co.il|cars.walla.co.il|celebs.walla.co.il|e.walla.co.il|elections.walla.co.il|euro.walla.co.il|fashion.walla.co.il|finance.walla.co.il|food.walla.co.il|forums.walla.co.il|fun.walla.co.il|healthy.walla.co.il|home.walla.co.il|judaism.walla.co.il|kids.walla.co.il|mag.walla.co.il|maps.walla.co.il|milon.walla.co.il|movies.walla.co.il|mundial.walla.co.il|nadlan.walla.co.il|news.walla.co.il|nick.walla.co.il|olympics.walla.co.il|search.walla.co.il|sports.walla.co.il|tags.walla.co.il|tech.walla.co.il|translate.walla.co.il|travel.walla.co.il|tv-guide.walla.co.il|tv.walla.co.il|usaelections.walla.co.il|viva.walla.co.il|vod.walla.co.il|weather.walla.co.il|www.walla.co.il
+/^[a-zA-Z0-9\-]+\:\/+[\.0-9]+([\/\:]|$)/$image,media,script,stylesheet,subdocument,third-party,domain=6days.walla.co.il|animals.walla.co.il|astrology.walla.co.il|b.walla.co.il|buzzit.walla.co.il|calendar.walla.co.il|cars.walla.co.il|celebs.walla.co.il|e.walla.co.il|elections.walla.co.il|euro.walla.co.il|fashion.walla.co.il|finance.walla.co.il|food.walla.co.il|forums.walla.co.il|fun.walla.co.il|healthy.walla.co.il|home.walla.co.il|judaism.walla.co.il|kids.walla.co.il|mag.walla.co.il|maps.walla.co.il|milon.walla.co.il|movies.walla.co.il|mundial.walla.co.il|nadlan.walla.co.il|news.walla.co.il|nick.walla.co.il|olympics.walla.co.il|search.walla.co.il|sports.walla.co.il|tags.walla.co.il|tech.walla.co.il|translate.walla.co.il|travel.walla.co.il|tv-guide.walla.co.il|tv.walla.co.il|usaelections.walla.co.il|viva.walla.co.il|vod.walla.co.il|weather.walla.co.il|www.walla.co.il
+#
+|blob:$~script,domain=6days.walla.co.il|animals.walla.co.il|astrology.walla.co.il|b.walla.co.il|buzzit.walla.co.il|calendar.walla.co.il|cars.walla.co.il|celebs.walla.co.il|e.walla.co.il|elections.walla.co.il|euro.walla.co.il|fashion.walla.co.il|finance.walla.co.il|food.walla.co.il|forums.walla.co.il|fun.walla.co.il|healthy.walla.co.il|home.walla.co.il|judaism.walla.co.il|kids.walla.co.il|mag.walla.co.il|maps.walla.co.il|milon.walla.co.il|movies.walla.co.il|mundial.walla.co.il|nadlan.walla.co.il|news.walla.co.il|nick.walla.co.il|olympics.walla.co.il|search.walla.co.il|sports.walla.co.il|tags.walla.co.il|tech.walla.co.il|translate.walla.co.il|travel.walla.co.il|tv-guide.walla.co.il|tv.walla.co.il|usaelections.walla.co.il|viva.walla.co.il|vod.walla.co.il|weather.walla.co.il|www.walla.co.il
+#
+127.0.0.1	 walla.co.il^$websocket,~third-party,domain=6days.walla.co.il|animals.walla.co.il|astrology.walla.co.il|b.walla.co.il|buzzit.walla.co.il|calendar.walla.co.il|cars.walla.co.il|celebs.walla.co.il|e.walla.co.il|elections.walla.co.il|euro.walla.co.il|fashion.walla.co.il|finance.walla.co.il|food.walla.co.il|forums.walla.co.il|fun.walla.co.il|healthy.walla.co.il|home.walla.co.il|judaism.walla.co.il|kids.walla.co.il|mag.walla.co.il|maps.walla.co.il|milon.walla.co.il|movies.walla.co.il|mundial.walla.co.il|nadlan.walla.co.il|news.walla.co.il|nick.walla.co.il|olympics.walla.co.il|search.walla.co.il|sports.walla.co.il|tags.walla.co.il|tech.walla.co.il|translate.walla.co.il|travel.walla.co.il|tv-guide.walla.co.il|tv.walla.co.il|usaelections.walla.co.il|viva.walla.co.il|vod.walla.co.il|weather.walla.co.il|www.walla.co.il
+#
+127.0.0.1	 walla.co.il^$csp=script-src 'self' * blob: data: 'unsafe-inline',domain=animals.walla.co.il|b.walla.co.il|buzzit.walla.co.il|cars.walla.co.il|celebs.walla.co.il|e.walla.co.il|elections.walla.co.il|fashion.walla.co.il|finance.walla.co.il|food.walla.co.il|healthy.walla.co.il|home.walla.co.il|judaism.walla.co.il|mag.walla.co.il|movies.walla.co.il|nadlan.walla.co.il|news.walla.co.il|sports.walla.co.il|tags.walla.co.il|tech.walla.co.il|travel.walla.co.il|tv-guide.walla.co.il|viva.walla.co.il|vod.walla.co.il|weather.walla.co.il|www.walla.co.il
+#
+*$webrtc,domain=walla.co.il
+#
+.php?d=$popup,third-party,domain=walla.co.il
+.php?dst=$popup,third-party,domain=walla.co.il
+.php?url=$popup,third-party,domain=walla.co.il
+#
+127.0.0.1	 a.walla.co.il^
+127.0.0.1	 artipbox.net,domain=walla.co.il
+127.0.0.1	 azureedge.net,domain=walla.co.il
+127.0.0.1	 browsiprod.com^$script,xmlhttprequest,domain=walla.co.il
+127.0.0.1	 cooladata.com,domain=walla.co.il
+127.0.0.1	 elasticbeanstalk.com,domain=walla.co.il
+127.0.0.1	 exposeboxwallashops.blob.core.windows.net^
+127.0.0.1	 firebaseio.com,domain=walla.co.il
+127.0.0.1	 fus.walla.co.il/js/purcf/walla.friends.rashi.main$script
+127.0.0.1	 fus.walla.co.il/report/
+127.0.0.1	 fus.walla.co.il/script.js?1$domain=tv-guide.walla.co.il
+127.0.0.1	 fus.walla.co.il/vast/
+127.0.0.1	 jor-el.net^
+127.0.0.1	 jor-el.net^$popup
+127.0.0.1	 kxcdn.com,domain=6days.walla.co.il|animals.walla.co.il|b.walla.co.il|cars.walla.co.il|celebs.walla.co.il|e.walla.co.il|elections.walla.co.il|euro.walla.co.il|fashion.walla.co.il|finance.walla.co.il|food.walla.co.il|healthy.walla.co.il|home.walla.co.il|judaism.walla.co.il|kids.walla.co.il|mag.walla.co.il|mundial.walla.co.il|nadlan.walla.co.il|news.walla.co.il|nick.walla.co.il|olympics.walla.co.il|sports.walla.co.il|tech.walla.co.il|travel.walla.co.il|usaelections.walla.co.il|viva.walla.co.il|vod.walla.co.il|www.walla.co.il
+127.0.0.1	 live.sekindo.com/uploads/users/$domain=walla.co.il
+127.0.0.1	 logidea.info,domain=walla.co.il
+127.0.0.1	 walla.yad2.co.il/*banner$subdocument,domain=walla.co.il
+127.0.0.1	 wrtm.walla.co.il^
+127.0.0.1	 x.walla.co.il^$image,domain=mail.walla.co.il
+127.0.0.1	 x.walla.co.il^*.mp4|
+127.0.0.1	 xwbe.wcdn.co.il^$image
+127.0.0.1	 xwne.wcdn.co.il^$domain=walla.co.il
+# * ynet * #
+#/^(?#[a-zA-Z0-9\-]+\:\/+([^\/\:\.]+\.)*((gov|idf|muni|ac|k12|net)\.il|(google|blogspot|phpbb|minifier|enable|nagich|nagishplus|nagishly|livedns|emap|23tv|glz|icast|ecast|mediacast|live1|siz|gif|meduzot|telesport|teleline|livegames|2net|weather2day|mekorotapp|e-vrit|fav|slash|rabbi|kaplanopensource|systematics|israelcoronamap|icdn|yit|yediot|yedioth|yedioth-magazine|ynet|calcalist|xnet|pplus|pnaiplus|blazermagazine|laisha|gostyle|menta|frogi|rosh1|winwin|kick|mynet|kikar|mame|one|vesty|net-games|ynetshops|ynettours|ynetart|ynetalbums|yschool|yedschool|ymath|shoppinglaisha|dolcemaster|zikaronet|alljobs|bigdeal|pro|rol|infomed|madlan|belkin-ad|icar|tevahadvarim|cosmos|g-rafa|hwzone|dtown|96fm|getit|yad2|hasapakim|hamara|fxglive|xplorer|smartair|hotelscombined|duns100|maor|dominos|psakdin|alpha|romshamaim)\.co\.il|(kan|makan|iba|oref|parks|imj|nli|bh|isoc|hebrew-academy|kineret|teva|zavit|ip6|profile|hayadan|sefereshet|birds|ruachtova)\.org\.il)\.?([\/\:]|$))^[a-zA-Z0-9\-]+\:\/+[^\/\:]+\.il\.?([\/\:]|$)/$third-party,domain=calcalist.co.il|pplus.ynet.co.il|www.ynet.co.il|xnet.ynet.co.il
+#/^(?#[a-zA-Z0-9\-]+\:\/+([^\/\:\.]+\.)*(facebook|fbcdn|dmcdn|slideshare|cloudfront|cloudflare|fastly|fastlylb|gammacdn|edgecastcdn|footprint|incapdns|cloudapp|brightcove|jsdelivr|akamai|akamaihd|akamaized|akamaiedge|akahost|ctedgecdn|2mdn|edgesuite|azurewebsites|azureedge|windows|hwcdn|zencdn|llnwd|boltdns|msecnd|bitsngo|nocookie|datatables|docdroid|algolia|anvato|maphub|dwcdn|twitchcdn|ttvnw|jtvnw|ampproject|dailyuploads|recaptcha|yastatic|behance|edgefonts|typekit|darksky|deviantart|8ch|vodgc|hlsplayer|streamlock|web-view|streamgates|cdnwz|playgorithm|vidiom|radwarecloud|f-static|chartbeat|doubleclick|advsnx|pagefair|liveadserver|freegeoip|upapi|total-media|sc-static|artipbox)\.net\.?([\/\:]|$))^[a-zA-Z0-9\-]+\:\/+[^\/\:]+\.net\.?([\/\:]|$)/$third-party,domain=calcalist.co.il|pplus.ynet.co.il|www.ynet.co.il|xnet.ynet.co.il
+#/^(?#[a-zA-Z0-9\-]+\:\/+([^\/\:\.]+\.)*(flowplayer|amara|h5p|d3js|ampproject|promisejs|backbonejs|angularjs|dojotoolkit|openstreetmap|wmflabs|wikimapia|wikimedia|wikipedia|w3|schema|archive|mozilla|documentcloud|w|mathjax|userway|pannellum|tmdb|muses|postimage|imgsafe|4chan|4channel|4cdn|telegram|olympic|pbs|pbskids|npr|ntp|gnu|creativecommons|eff|icann|iana|wikileaks|ourworldindata|cdn77|browser-update|consensu|wp-accessibility|covid19maps|coronaisrael|ipify)\.org\.?([\/\:]|$))^[a-zA-Z0-9\-]+\:\/+[^\/\:]+\.org\.?([\/\:]|$)/$third-party,domain=calcalist.co.il|pplus.ynet.co.il|www.ynet.co.il|xnet.ynet.co.il
+#/^(?#[a-zA-Z0-9\-]+\:\/+([^\/\:\.]+\.)*(google|gstatic|googleapis|jquery|youtube|ytimg|facebook|fbsbx|twitter|twimg|instagram|cdninstagram|pinterest|pinimg|tumblr|giphy|vimeo|vimeocdn|dailymotion|flickr|staticflickr|soundcloud|sndcdn|scribd|scribdassets|sharethis|addthis|addthisedge|addthiscdn|reddit|redditmedia|redditstatic|redditgifts|linkedin|licdn|fontawesome|image-maps|cloudflare|bootstrapcdn|unpkg|cdnjs|stackpathdns|stackpathcdn|maxcdn|maxcdn-edge|netdna-ssl|netdna-cdn|kxcdn|ssl-cdn|muicss|tinymce|createjs|github|githubusercontent|aspnetcdn|azure|amazonaws|elasticbeanstalk|rackcdn|jwplayer|jwpcdn|jwpltx|jwpsrv|jwplatform|brightcove|brightcovecdn|flowplayer|foliovision|streamable|omnystudio|omnycontent|mixcloud|iheart|bandcamp|bcbits|podbean|buzzsprout|nobexpartners|podtail|spreaker|simplecast|spotify|vocaroo|embedly|iframely|snapwidget|thinglink|infogram|highcharts|printfriendly|algolianet|gravatar|unsplash|freepik|svgur|svgshare|icons8|iconfinder|iconarchive|iconscout|flaticon|kindpng|pngitem|imgur|imgflip|gifer|gfycat|tenor|disqus|disquscdn|disqusservice|oneall|oneallcdn|tapatalk|tapatalk-cdn|mapbox|maptiler|mapquest|arcgis|arcgisonline|esri|here|ted|tedcdn|kickstarter|riddle|strawpoll|9gag|9cache|imageshack|tinypic|photobox|photobucket|gifyu|makeagif|reactiongifs|gifbin|gif-finder|kym-cdn|gyazo|prntscr|pastebin|rawgit|rawgithub|knockoutjs|gridstackjs|ravenjs|liveleak|metacafe|mcstatic|ign|ignimgs|365scores|buzzfeed|digg|stumbleupon|mix|getpocket|blogspot|wordpress|wp|videopress|wptavern|livejournal|withgoogle|googlegroups|googleusercontent|googlevideo|ggpht|youtube-nocookie|appspot|firebaseio|firebaseapp|libring|hcaptcha|paypal|paypalobjects|amazon|media-amazon|media-imdb|ebay|apple|microsoft|live|bing|msn|yahoo|yimg|yahooapis|duckduckgo|yandex|webflow|rtlcss|dropbox|dropboxusercontent|dropboxstatic|dropbox-dns|timeanddate|momentjs|weather|accuweather|theweathernetwork|sat24|adobe|onesignal|livefyre|pushwoosh|tinypass|addtoany|addthisevent|addevent|addtocalendar|sumo|sumome|chatango|bitly|tinyurl|ipcamlive|playstation|discordapp|mixer|tiktok|tiktokcdn|muscdn|ibytedtos|deviantart|firefoxusercontent|box|feedly|feedburner|phpbb|vk|userapi|whatsapp|vroptimal-3dx-assets|bbc|cnn|nytimes|nyt|today|fifa|uefa|nba|turner|xkcd|mtvnservices|cc|tmz|bugsnag|zoro|hebcal|fontsproject|kayma|kayma-dashboards|kampyle|vicomi|openweb|kaltura|cincopa|avplayer|vidnt|peer5|h-cdn|bynetcdn|cdnwiz|best-tv|viewbix|streamrail|smv-cdn|cloudvideoplatform|waze|hunchbots|jeeng|cloudinary|sphereup|poloriz|applicaster|cloudwm|cloudwm-waf|negishim|accessibe|accessibeapp|acsbap|vollotech|mk-sense|shortaudition|spaceil|clear-map|segmanta|opinionstage|playbuzz|apester|qmerce|outbrain|taboola|taboolasyndication|googleoptimize|google-analytics|googletagservices|googletagmanager|googleadservices|googlesyndication|dynamicyield|scorecardresearch|serving-sys|chartbeat|exposebox|coralogix|loggly|browsiprod|hostedprebid|adnxs|pagefair|visualrevenue|connatix|exelator|sekindo|roojoom|babator|talkahead|pusher|relevanti|npttech|aniview|mimgoal|ukstatic|corrigon|careebiz|exitvalley|young-galileo|ranlevi|birdsbase|carmel6000|scmp|calcalist-cdnwiz|ynet-cdnwiz|ynetlive-cdnwiz|ynetnews|ynetespanol)\.com\.?([\/\:]|$))^[a-zA-Z0-9\-]+\:\/+[^\/\:]+\.com\.?([\/\:]|$)/$third-party,domain=calcalist.co.il|pplus.ynet.co.il|www.ynet.co.il|xnet.ynet.co.il
+#/^(?#[a-zA-Z0-9\-]+\:\/+([^\/\:]+\.(il|com|net|org|gov|mil|edu|int|(ac|nhs)\.uk)|[\.0-9]+|([^\/\:\.]+\.)*(spot\.im|spots\.im|omny\.fm|github\.io|socket\.io|codepen\.io|polyfill\.io|embed\.ly|iframe\.ly|infogr\.am|flourish\.studio|flourish\.rocks|uri\.sh|po\.st|plyr\.io|periscope\.tv|pscp\.tv|vine\.co|popkey\.co|tenor\.co|redd\.it|ibb\.co|vgy\.me|postimg\.cc|imageshack\.us|prnt\.sc|imagesup\.co|weserv\.nl|telesco\.pe|powr\.io|simplecast\.fm|anchor\.fm|pippa\.io|last\.fm|scdn\.co|adobe\.io|lmao\.ninja|disease\.sh|twitch\.tv|vid\.me|h-cdn\.co|minute\.ly|vttp\.co|tldw\.me|feeder\.co|del\.icio\.us|telegram\.me|yandex\.ru|dailymail\.co\.uk|cnn\.io|bit\.ly|goo\.gl|g\.co|youtu\.be|t\.co|t\.me|fb\.me|m\.me|instagr\.am|wa\.me|amzn\.to|git\.io|docdro\.id|arcg\.is|ow\.ly|disq\.us|tiny\.cc|ex\.co|nagishly\.co|user1st\.info|logidea\.info|zoomanalytics\.co|firstimpression\.io|rtk\.io|bluesli\.de|trace\.events|atom-data\.io|ipinfo\.io|mobium-demo\.me|powerad\.ai|snackly\.co))\.?([\/\:]|$))^[^\/\:\.]+\:\/+[^\/\:\.]/$third-party,domain=calcalist.co.il|pplus.ynet.co.il|www.ynet.co.il|xnet.ynet.co.il
+#/^[a-zA-Z0-9\-]+\:\/+[\.0-9]+([\/\:]|$)/$image,media,script,stylesheet,subdocument,third-party,domain=calcalist.co.il|pplus.ynet.co.il|www.ynet.co.il|xnet.ynet.co.il
+#
+127.0.0.1	 www.ynet.co.il^$websocket,~third-party,domain=www.ynet.co.il
+#
+*$webrtc,domain=ynet.co.il
+#
+/BannerScripts.js?$script,domain=mynetbatyam.co.il|mynethadera.co.il|mynetherzliya.co.il|mynethodhasharon.co.il|mynetholon.co.il|mynetjerusalem.co.il|mynetkfarsaba.co.il|mynetkibbutz.co.il|mynetnetanya.co.il|mynetpetahtikva.co.il|mynetraanana.co.il|mynetrehovot.co.il|mynetrishon.co.il|mynetroshhaayin.co.il
+#
+/CdaMarketTextlinks_
+/CdaMarketingLink/*
+127.0.0.1	 alljobs.co.il/Partners/Ynet/Engine.aspx
+127.0.0.1	 article.yedioth.co.il/assets/Banners
+127.0.0.1	 browsiprod.com^$script,xmlhttprequest,domain=ynet.co.il
+127.0.0.1	 cloudfront.net^$script,domain=ynet.co.il
+127.0.0.1	 dynamicyield.com^$script,domain=ynet.co.il
+127.0.0.1	 go.ynet.co.il/short/Demos/*/Ads/
+127.0.0.1	 go.ynet.co.il/short/content/2013/Career/SideJobs/
+127.0.0.1	 infomed.co.il/ynet/sidebox.aspx?
+127.0.0.1	 psakdin.co.il/ExternalFrames/$domain=ynet.co.il
+127.0.0.1	 s3.amazonaws.com^$script,domain=ynet.co.il
+127.0.0.1	 totalmedia2.ynet.co.il^
+127.0.0.1	 trace.events,domain=ynet.co.il
+127.0.0.1	 ynetbanneradmin.yit.co.il/assets/$subdocument,domain=ynet.co.il
+# * mako * #
+#/^(?#[a-zA-Z0-9\-]+\:\/+([^\/\:\.]+\.)*((gov|idf|muni|ac|k12|net)\.il|(google|blogspot|phpbb|minifier|enable|nagich|nagishplus|nagishly|livedns|emap|23tv|glz|icast|ecast|mediacast|live1|siz|gif|meduzot|telesport|teleline|livegames|2net|weather2day|mekorotapp|e-vrit|fav|slash|rabbi|kaplanopensource|systematics|israelcoronamap|icdn|mako|n12|channel12|ch2news|music24|mooma|bip|auto|sport5|globes|forbes|bizportal|maariv|tapuz|fashionforward|living|ocheltov|ninemonth|nexter|hix|pzm|tvbee|t-5|ozeoze|easy|netex|morfix|fxp|gamein|tgspot|geektime|102fm|israelmags|activetrail|blend|2eat|smartair|mysupermarket|weshoes|styleriver|casasanpellegrino|dominos|id-x|nirshamim|psakdin|blms|landing-page-media|linicom)\.co\.il|(kan|makan|iba|oref|parks|imj|nli|bh|isoc|hebrew-academy|kineret|teva|zavit|ip6|profile)\.org\.il)\.?([\/\:]|$))^[a-zA-Z0-9\-]+\:\/+[^\/\:]+\.il\.?([\/\:]|$)/$third-party,domain=corona.mako.co.il|fashionforward.mako.co.il|n12.co.il|shironet.mako.co.il|www.mako.co.il
+#/^(?#[a-zA-Z0-9\-]+\:\/+([^\/\:\.]+\.)*(facebook|fbcdn|dmcdn|slideshare|cloudfront|cloudflare|fastly|fastlylb|gammacdn|edgecastcdn|footprint|incapdns|cloudapp|brightcove|jsdelivr|akamai|akamaihd|akamaized|akamaiedge|akahost|ctedgecdn|2mdn|edgesuite|azurewebsites|azureedge|windows|hwcdn|zencdn|llnwd|boltdns|msecnd|bitsngo|nocookie|datatables|docdroid|algolia|anvato|maphub|dwcdn|twitchcdn|ttvnw|jtvnw|ampproject|dailyuploads|recaptcha|yastatic|behance|edgefonts|typekit|darksky|deviantart|8ch|vodgc|hlsplayer|streamlock|web-view|streamgates|cdnwz|playgorithm|vidiom|radwarecloud|f-static|uploaditnow|shiron|chartbeat|doubleclick|advsnx|upapi|sc-static|artipbox)\.net\.?([\/\:]|$))^[a-zA-Z0-9\-]+\:\/+[^\/\:]+\.net\.?([\/\:]|$)/$third-party,domain=corona.mako.co.il|fashionforward.mako.co.il|n12.co.il|shironet.mako.co.il|www.mako.co.il
+#/^(?#[a-zA-Z0-9\-]+\:\/+([^\/\:\.]+\.)*(flowplayer|amara|h5p|d3js|ampproject|promisejs|backbonejs|angularjs|dojotoolkit|openstreetmap|wmflabs|wikimapia|wikimedia|wikipedia|w3|schema|archive|mozilla|documentcloud|w|mathjax|userway|pannellum|tmdb|muses|postimage|imgsafe|4chan|4channel|4cdn|telegram|olympic|pbs|pbskids|npr|ntp|gnu|creativecommons|eff|icann|iana|wikileaks|ourworldindata|cdn77|browser-update|consensu|wp-accessibility|covid19maps|coronaisrael|minidom)\.org\.?([\/\:]|$))^[a-zA-Z0-9\-]+\:\/+[^\/\:]+\.org\.?([\/\:]|$)/$third-party,domain=corona.mako.co.il|fashionforward.mako.co.il|n12.co.il|shironet.mako.co.il|www.mako.co.il
+#/^(?#[a-zA-Z0-9\-]+\:\/+([^\/\:\.]+\.)*(google|gstatic|googleapis|jquery|youtube|ytimg|facebook|fbsbx|twitter|twimg|instagram|cdninstagram|pinterest|pinimg|tumblr|giphy|vimeo|vimeocdn|dailymotion|flickr|staticflickr|soundcloud|sndcdn|scribd|scribdassets|sharethis|addthis|addthisedge|addthiscdn|reddit|redditmedia|redditstatic|redditgifts|linkedin|licdn|fontawesome|image-maps|cloudflare|bootstrapcdn|unpkg|cdnjs|stackpathdns|stackpathcdn|maxcdn|maxcdn-edge|netdna-ssl|netdna-cdn|kxcdn|ssl-cdn|muicss|tinymce|createjs|github|githubusercontent|aspnetcdn|azure|amazonaws|elasticbeanstalk|rackcdn|jwplayer|jwpcdn|jwpltx|jwpsrv|jwplatform|brightcove|brightcovecdn|flowplayer|foliovision|streamable|omnystudio|omnycontent|mixcloud|iheart|bandcamp|bcbits|podbean|buzzsprout|nobexpartners|podtail|spreaker|simplecast|spotify|vocaroo|embedly|iframely|snapwidget|thinglink|infogram|highcharts|printfriendly|algolianet|gravatar|unsplash|freepik|svgur|svgshare|icons8|iconfinder|iconarchive|iconscout|flaticon|kindpng|pngitem|imgur|imgflip|gifer|gfycat|tenor|disqus|disquscdn|disqusservice|oneall|oneallcdn|tapatalk|tapatalk-cdn|mapbox|maptiler|mapquest|arcgis|arcgisonline|esri|here|ted|tedcdn|kickstarter|riddle|strawpoll|9gag|9cache|imageshack|tinypic|photobox|photobucket|gifyu|makeagif|reactiongifs|gifbin|gif-finder|kym-cdn|gyazo|prntscr|pastebin|rawgit|rawgithub|knockoutjs|gridstackjs|ravenjs|liveleak|metacafe|mcstatic|ign|ignimgs|365scores|buzzfeed|digg|stumbleupon|mix|getpocket|blogspot|wordpress|wp|videopress|wptavern|livejournal|withgoogle|googlegroups|googleusercontent|googlevideo|ggpht|youtube-nocookie|appspot|firebaseio|firebaseapp|libring|hcaptcha|paypal|paypalobjects|amazon|media-amazon|media-imdb|ebay|apple|microsoft|live|bing|msn|yahoo|yimg|yahooapis|duckduckgo|yandex|webflow|rtlcss|dropbox|dropboxusercontent|dropboxstatic|dropbox-dns|timeanddate|momentjs|weather|accuweather|theweathernetwork|sat24|adobe|onesignal|livefyre|pushwoosh|tinypass|addtoany|addthisevent|addevent|addtocalendar|sumo|sumome|chatango|bitly|tinyurl|ipcamlive|playstation|discordapp|mixer|tiktok|tiktokcdn|muscdn|ibytedtos|deviantart|firefoxusercontent|box|feedly|feedburner|phpbb|vk|userapi|whatsapp|vroptimal-3dx-assets|bbc|cnn|nytimes|nyt|today|fifa|uefa|nba|turner|xkcd|mtvnservices|cc|tmz|bugsnag|zoro|hebcal|fontsproject|kayma|kayma-dashboards|kampyle|vicomi|openweb|kaltura|cincopa|avplayer|vidnt|peer5|h-cdn|bynetcdn|cdnwiz|best-tv|viewbix|streamrail|smv-cdn|cloudvideoplatform|waze|hunchbots|jeeng|cloudinary|sphereup|poloriz|applicaster|cloudwm|cloudwm-waf|negishim|accessibe|accessibeapp|acsbap|vollotech|mk-sense|shortaudition|spaceil|clear-map|sniperm|dinovich|devdino|devdinocdn|fast-direct|syteapi|shopstyle-cdn|makoplay|keshet-tv|keshet-i|mooma|segmanta|opinionstage|playbuzz|apester|qmerce|outbrain|taboola|taboolasyndication|googleoptimize|google-analytics|googletagservices|googletagmanager|googleadservices|googlesyndication|dynamicyield|scorecardresearch|serving-sys|chartbeat|exposebox|coralogix|permutive|bluekai|cooladata|tiviclick|aniview|ruchlis|hotjar|flx1|mxpnl|adnxs|moatads|exelator|adoric-ads|activetrail|sekindo|srvoverlay|conduit|makojs|themarker|abc7|infobae|hearstapps)\.com\.?([\/\:]|$))^[a-zA-Z0-9\-]+\:\/+[^\/\:]+\.com\.?([\/\:]|$)/$third-party,domain=corona.mako.co.il|fashionforward.mako.co.il|n12.co.il|shironet.mako.co.il|www.mako.co.il
+#/^(?#[a-zA-Z0-9\-]+\:\/+([^\/\:]+\.(il|com|net|org|gov|mil|edu|int|(ac|nhs)\.uk)|[\.0-9]+|([^\/\:\.]+\.)*(spot\.im|spots\.im|omny\.fm|github\.io|socket\.io|codepen\.io|polyfill\.io|embed\.ly|iframe\.ly|infogr\.am|flourish\.studio|flourish\.rocks|uri\.sh|po\.st|plyr\.io|periscope\.tv|pscp\.tv|vine\.co|popkey\.co|tenor\.co|redd\.it|ibb\.co|vgy\.me|postimg\.cc|imageshack\.us|prnt\.sc|imagesup\.co|weserv\.nl|telesco\.pe|powr\.io|simplecast\.fm|anchor\.fm|pippa\.io|last\.fm|scdn\.co|adobe\.io|lmao\.ninja|disease\.sh|twitch\.tv|vid\.me|h-cdn\.co|minute\.ly|vttp\.co|tldw\.me|feeder\.co|del\.icio\.us|telegram\.me|yandex\.ru|dailymail\.co\.uk|cnn\.io|bit\.ly|goo\.gl|g\.co|youtu\.be|t\.co|t\.me|fb\.me|m\.me|instagr\.am|wa\.me|amzn\.to|git\.io|docdro\.id|arcg\.is|ow\.ly|disq\.us|tiny\.cc|ex\.co|nagishly\.co|user1st\.info|mako\.tools|onthe\.io|logidea\.info|zoomanalytics\.co|firstimpression\.io|rtk\.io|activetrail\.biz|valuad\.cloud))\.?([\/\:]|$))^[^\/\:\.]+\:\/+[^\/\:\.]/$third-party,domain=corona.mako.co.il|fashionforward.mako.co.il|n12.co.il|shironet.mako.co.il|www.mako.co.il
+#/^[a-zA-Z0-9\-]+\:\/+[\.0-9]+([\/\:]|$)/$image,media,script,stylesheet,subdocument,third-party,domain=corona.mako.co.il|fashionforward.mako.co.il|n12.co.il|shironet.mako.co.il|www.mako.co.il
+#
+|blob:$~script,domain=www.mako.co.il
+#
+127.0.0.1	 www.mako.co.il^$websocket,~third-party,domain=www.mako.co.il
+#
+*$webrtc,domain=mako.co.il
+#
+127.0.0.1	 activetrail.com,domain=mako.co.il
+127.0.0.1	 adoric-ads.com,domain=mako.co.il
+127.0.0.1	 adserv.mako.co.il^
+127.0.0.1	 analytics.edgesuite.net,domain=mako.co.il
+127.0.0.1	 api.conduit.com^$domain=mako.co.il
+127.0.0.1	 apps.mako.co.il/minicampaigns/
+127.0.0.1	 doubleclick.net,domain=mako.co.il
+127.0.0.1	 img.mako.co.il/2018/*/*/970x90A.jpg|$image
+127.0.0.1	 localhost^$domain=mako.co.il|n12.co.il
+127.0.0.1	 logger.logidea.info,domain=mako.co.il
+127.0.0.1	 mako.co.il/makotv/loginSocialConfig.json
+127.0.0.1	 netdna-ssl.com,domain=mako.co.il
+127.0.0.1	 psakdin.co.il/ExternalFrames/$domain=mako.co.il
+127.0.0.1	 rcs.mako.co.il/js/player/*/Artimedia/ArtimediaAdManager.js
+127.0.0.1	 sdc.mako.co.il^
+127.0.0.1	 shironet.mako.co.il/jsp/images/main_strip_ad_box_718.gif
+127.0.0.1	 valuad.cloud,domain=mako.co.il|n12.co.il
+# * Globes * #
+127.0.0.1	 www.globes.co.il^$websocket,~third-party,domain=www.globes.co.il
+#
+#
+127.0.0.1	 globes.co.il/ga.asp$~third-party
+127.0.0.1	 globes.co.il/globes/newsletters/minisites_2/banners/
+127.0.0.1	 s3.amazonaws.com^$script,domain=globes.co.il
+# * Calcalist * #
+127.0.0.1	 www.calcalist.co.il^$websocket,~third-party,domain=www.calcalist.co.il
+#
+#
+127.0.0.1	 psakdin.co.il/ExternalFrames/$domain=calcalist.co.il
+127.0.0.1	 s3.amazonaws.com^$script,domain=calcalist.co.il
+# * Haaretz, TheMarker, Mouse.co.il * #
+/haaretz\.co\.il\/(?#.*\.(js)($|\?)).*/$script,domain=haaretz.co.il|themarker.com
+/haaretz\.co\.il\/[\w\.#]+\/[\w\.#]+\/[\w\.#]+\/[\w\.#]+\/[\w\.#]+\//$image,subdocument,domain=haaretz.co.il|themarker.com
+#
+127.0.0.1	 amazonaws.com/campagin/pop/$domain=mouse.co.il
+127.0.0.1	 haaretz.co.il/htz/images/bg/Ad_bg.gif
+127.0.0.1	 haaretz.co.il/st/media
+127.0.0.1	 haaretz.co.il^*/AB/aby.gif
+127.0.0.1	 haaretz.co.il^*/Banners/
+127.0.0.1	 haaretz.co.il^*/Houdini/
+127.0.0.1	 houdini.haaretz.co.il^
+127.0.0.1	 images.haarets.co.il/image/upload/w_227,h_112,c_crop/q_auto,h_98,w_227,c_fill,f_auto/fl_lossy.any_format.preserve_transparency.progressive:none/v1548162519/1.6867261.518501105.jpg
+127.0.0.1	 rmkz.themarker.com^$popup
+127.0.0.1	 themarker.com/abc$script
+127.0.0.1	 themarker.com/dclk/
+127.0.0.1	 themarker.com/st/media
+127.0.0.1	 themarker.com/tm/js/resp/header_scripts/internal/util/z_adblockutil.js
+127.0.0.1	 themarker.com^*/Houdini/
+# * Reshet 13 * #
+#/^(?#[a-zA-Z0-9\-]+\:\/+([^\/\:\.]+\.)*((gov|idf|muni|ac|k12|net)\.il|(google|blogspot|phpbb|minifier|enable|nagich|nagishplus|nagishly|livedns|emap|23tv|glz|icast|ecast|mediacast|live1|siz|gif|meduzot|telesport|teleline|livegames|2net|weather2day|mekorotapp|e-vrit|fav|slash|rabbi|kaplanopensource|systematics|israelcoronamap|icdn|13tv|13news|nana10|nana|nanafiles|yummies|linicom)\.co\.il|(kan|makan|iba|oref|parks|imj|nli|bh|isoc|hebrew-academy|kineret|teva|zavit|ip6|profile|pitchonlev)\.org\.il)\.?([\/\:]|$))^[a-zA-Z0-9\-]+\:\/+[^\/\:]+\.il\.?([\/\:]|$)/$third-party,domain=13news.co.il|13tv.co.il
+#/^(?#[a-zA-Z0-9\-]+\:\/+([^\/\:\.]+\.)*(facebook|fbcdn|dmcdn|slideshare|cloudfront|cloudflare|fastly|fastlylb|gammacdn|edgecastcdn|footprint|incapdns|cloudapp|brightcove|jsdelivr|akamai|akamaihd|akamaized|akamaiedge|akahost|ctedgecdn|2mdn|edgesuite|azurewebsites|azureedge|windows|hwcdn|zencdn|llnwd|boltdns|msecnd|bitsngo|nocookie|datatables|docdroid|algolia|anvato|maphub|dwcdn|twitchcdn|ttvnw|jtvnw|ampproject|dailyuploads|recaptcha|yastatic|behance|edgefonts|typekit|darksky|deviantart|8ch|vodgc|hlsplayer|streamlock|web-view|streamgates|cdnwz|playgorithm|vidiom|radwarecloud|f-static|socketcdn|xicdn|2cnt|chartbeat|doubleclick|advsnx|sc-static|artipbox)\.net\.?([\/\:]|$))^[a-zA-Z0-9\-]+\:\/+[^\/\:]+\.net\.?([\/\:]|$)/$third-party,domain=13news.co.il|13tv.co.il
+#/^(?#[a-zA-Z0-9\-]+\:\/+([^\/\:\.]+\.)*(flowplayer|amara|h5p|d3js|ampproject|promisejs|backbonejs|angularjs|dojotoolkit|openstreetmap|wmflabs|wikimapia|wikimedia|wikipedia|w3|schema|archive|mozilla|documentcloud|w|mathjax|userway|pannellum|tmdb|muses|postimage|imgsafe|4chan|4channel|4cdn|telegram|olympic|pbs|pbskids|npr|ntp|gnu|creativecommons|eff|icann|iana|wikileaks|ourworldindata|cdn77|browser-update|consensu|wp-accessibility|covid19maps|coronaisrael)\.org\.?([\/\:]|$))^[a-zA-Z0-9\-]+\:\/+[^\/\:]+\.org\.?([\/\:]|$)/$third-party,domain=13news.co.il|13tv.co.il
+#/^(?#[a-zA-Z0-9\-]+\:\/+([^\/\:\.]+\.)*(google|gstatic|googleapis|jquery|youtube|ytimg|facebook|fbsbx|twitter|twimg|instagram|cdninstagram|pinterest|pinimg|tumblr|giphy|vimeo|vimeocdn|dailymotion|flickr|staticflickr|soundcloud|sndcdn|scribd|scribdassets|sharethis|addthis|addthisedge|addthiscdn|reddit|redditmedia|redditstatic|redditgifts|linkedin|licdn|fontawesome|image-maps|cloudflare|bootstrapcdn|unpkg|cdnjs|stackpathdns|stackpathcdn|maxcdn|maxcdn-edge|netdna-ssl|netdna-cdn|kxcdn|ssl-cdn|muicss|tinymce|createjs|github|githubusercontent|aspnetcdn|azure|amazonaws|elasticbeanstalk|rackcdn|jwplayer|jwpcdn|jwpltx|jwpsrv|jwplatform|brightcove|brightcovecdn|flowplayer|foliovision|streamable|omnystudio|omnycontent|mixcloud|iheart|bandcamp|bcbits|podbean|buzzsprout|nobexpartners|podtail|spreaker|simplecast|spotify|vocaroo|embedly|iframely|snapwidget|thinglink|infogram|highcharts|printfriendly|algolianet|gravatar|unsplash|freepik|svgur|svgshare|icons8|iconfinder|iconarchive|iconscout|flaticon|kindpng|pngitem|imgur|imgflip|gifer|gfycat|tenor|disqus|disquscdn|disqusservice|oneall|oneallcdn|tapatalk|tapatalk-cdn|mapbox|maptiler|mapquest|arcgis|arcgisonline|esri|here|ted|tedcdn|kickstarter|riddle|strawpoll|9gag|9cache|imageshack|tinypic|photobox|photobucket|gifyu|makeagif|reactiongifs|gifbin|gif-finder|kym-cdn|gyazo|prntscr|pastebin|rawgit|rawgithub|knockoutjs|gridstackjs|ravenjs|liveleak|metacafe|mcstatic|ign|ignimgs|365scores|buzzfeed|digg|stumbleupon|mix|getpocket|blogspot|wordpress|wp|videopress|wptavern|livejournal|withgoogle|googlegroups|googleusercontent|googlevideo|ggpht|youtube-nocookie|appspot|firebaseio|firebaseapp|libring|hcaptcha|paypal|paypalobjects|amazon|media-amazon|media-imdb|ebay|apple|microsoft|live|bing|msn|yahoo|yimg|yahooapis|duckduckgo|yandex|webflow|rtlcss|dropbox|dropboxusercontent|dropboxstatic|dropbox-dns|timeanddate|momentjs|weather|accuweather|theweathernetwork|sat24|adobe|onesignal|livefyre|pushwoosh|tinypass|addtoany|addthisevent|addevent|addtocalendar|sumo|sumome|chatango|bitly|tinyurl|ipcamlive|playstation|discordapp|mixer|tiktok|tiktokcdn|muscdn|ibytedtos|deviantart|firefoxusercontent|box|feedly|feedburner|phpbb|vk|userapi|whatsapp|vroptimal-3dx-assets|bbc|cnn|nytimes|nyt|today|fifa|uefa|nba|turner|xkcd|mtvnservices|cc|tmz|bugsnag|zoro|hebcal|fontsproject|kayma|kayma-dashboards|kampyle|vicomi|openweb|kaltura|cincopa|avplayer|vidnt|peer5|h-cdn|bynetcdn|cdnwiz|best-tv|viewbix|streamrail|smv-cdn|cloudvideoplatform|waze|hunchbots|jeeng|cloudinary|sphereup|poloriz|applicaster|cloudwm|cloudwm-waf|negishim|accessibe|accessibeapp|acsbap|vollotech|mk-sense|shortaudition|spaceil|clear-map|segmanta|opinionstage|playbuzz|apester|qmerce|outbrain|taboola|taboolasyndication|googleoptimize|google-analytics|googletagservices|googletagmanager|googleadservices|googlesyndication|dynamicyield|scorecardresearch|serving-sys|chartbeat|exposebox|coralogix|advertising|imrworldwide|cooladata|aniview|spotxchange|pubmatic|adnxs|indexww|flashyapp|qamesh)\.com\.?([\/\:]|$))^[a-zA-Z0-9\-]+\:\/+[^\/\:]+\.com\.?([\/\:]|$)/$third-party,domain=13news.co.il|13tv.co.il
+#/^(?#[a-zA-Z0-9\-]+\:\/+([^\/\:]+\.(il|com|net|org|gov|mil|edu|int|(ac|nhs)\.uk)|[\.0-9]+|([^\/\:\.]+\.)*(spot\.im|spots\.im|omny\.fm|github\.io|socket\.io|codepen\.io|polyfill\.io|embed\.ly|iframe\.ly|infogr\.am|flourish\.studio|flourish\.rocks|uri\.sh|po\.st|plyr\.io|periscope\.tv|pscp\.tv|vine\.co|popkey\.co|tenor\.co|redd\.it|ibb\.co|vgy\.me|postimg\.cc|imageshack\.us|prnt\.sc|imagesup\.co|weserv\.nl|telesco\.pe|powr\.io|simplecast\.fm|anchor\.fm|pippa\.io|last\.fm|scdn\.co|adobe\.io|lmao\.ninja|disease\.sh|twitch\.tv|vid\.me|h-cdn\.co|minute\.ly|vttp\.co|tldw\.me|feeder\.co|del\.icio\.us|telegram\.me|yandex\.ru|dailymail\.co\.uk|cnn\.io|bit\.ly|goo\.gl|g\.co|youtu\.be|t\.co|t\.me|fb\.me|m\.me|instagr\.am|wa\.me|amzn\.to|git\.io|docdro\.id|arcg\.is|ow\.ly|disq\.us|tiny\.cc|ex\.co|nagishly\.co|user1st\.info|reshet\.tv|10\.tv|inthegame\.io|oplayer\.io|logidea\.info|zoomanalytics\.co|firstimpression\.io|rtk\.io|snackly\.co|analyti\.io))\.?([\/\:]|$))^[^\/\:\.]+\:\/+[^\/\:\.]/$third-party,domain=13news.co.il|13tv.co.il
+#/^[a-zA-Z0-9\-]+\:\/+[\.0-9]+([\/\:]|$)/$image,media,script,stylesheet,subdocument,third-party,domain=13news.co.il|13tv.co.il
+#
+127.0.0.1	 13news.co.il^$websocket,~third-party,domain=13news.co.il
+127.0.0.1	 13tv.co.il^$websocket,~third-party,domain=13tv.co.il
+#
+*$webrtc,domain=13news.co.il|13tv.co.il
+#
+/dfp.$~third-party,domain=13news.co.il|13tv.co.il
+/dfp/*$~third-party,domain=13news.co.il|13tv.co.il
+127.0.0.1	 viewbix.com,domain=13news.co.il|13tv.co.il
+# * SPORT5 * #
+#/^(?#(http|https|ftp|ws|wss|irc|ircs|irc6|blob|mailto|tel|sms|ipp|ipps|feed|magnet|udp|rtsp|rtsps|mms|android|whatsapp|tg|fb):)/$domain=sport5.co.il
+#/^(?#[a-zA-Z0-9\-]+\:\/+([^\/\:\.]+\.)*((gov|idf|muni|ac|k12|net)\.il|(google|blogspot|phpbb|minifier|enable|nagich|nagishplus|nagishly|livedns|emap|23tv|glz|icast|ecast|mediacast|live1|siz|gif|meduzot|telesport|teleline|livegames|2net|weather2day|mekorotapp|e-vrit|fav|slash|rabbi|kaplanopensource|systematics|israelcoronamap|icdn|mako|n12|auto|globes|dominos|linicom)\.co\.il|(kan|makan|iba|oref|parks|imj|nli|bh|isoc|hebrew-academy|kineret|teva|zavit|ip6|profile)\.org\.il)\.?([\/\:]|$))^[a-zA-Z0-9\-]+\:\/+[^\/\:]+\.il\.?([\/\:]|$)/$third-party,domain=sport5.co.il
+#/^(?#[a-zA-Z0-9\-]+\:\/+([^\/\:\.]+\.)*(facebook|fbcdn|dmcdn|slideshare|cloudfront|cloudflare|fastly|fastlylb|gammacdn|edgecastcdn|footprint|incapdns|cloudapp|brightcove|jsdelivr|akamai|akamaihd|akamaized|akamaiedge|akahost|ctedgecdn|2mdn|edgesuite|azurewebsites|azureedge|windows|hwcdn|zencdn|llnwd|boltdns|msecnd|bitsngo|nocookie|datatables|docdroid|algolia|anvato|maphub|dwcdn|twitchcdn|ttvnw|jtvnw|ampproject|dailyuploads|recaptcha|yastatic|behance|edgefonts|typekit|darksky|deviantart|8ch|vodgc|hlsplayer|streamlock|web-view|streamgates|cdnwz|playgorithm|vidiom|radwarecloud|f-static|xicdn|chartbeat|doubleclick|advsnx|go-mpulse|sc-static|artipbox)\.net\.?([\/\:]|$))^[a-zA-Z0-9\-]+\:\/+[^\/\:]+\.net\.?([\/\:]|$)/$third-party,domain=sport5.co.il
+#/^(?#[a-zA-Z0-9\-]+\:\/+([^\/\:\.]+\.)*(flowplayer|amara|h5p|d3js|ampproject|promisejs|backbonejs|angularjs|dojotoolkit|openstreetmap|wmflabs|wikimapia|wikimedia|wikipedia|w3|schema|archive|mozilla|documentcloud|w|mathjax|userway|pannellum|tmdb|muses|postimage|imgsafe|4chan|4channel|4cdn|telegram|olympic|pbs|pbskids|npr|ntp|gnu|creativecommons|eff|icann|iana|wikileaks|ourworldindata|cdn77|browser-update|consensu|wp-accessibility|covid19maps|coronaisrael)\.org\.?([\/\:]|$))^[a-zA-Z0-9\-]+\:\/+[^\/\:]+\.org\.?([\/\:]|$)/$third-party,domain=sport5.co.il
+#/^(?#[a-zA-Z0-9\-]+\:\/+([^\/\:\.]+\.)*(google|gstatic|googleapis|jquery|youtube|ytimg|facebook|fbsbx|twitter|twimg|instagram|cdninstagram|pinterest|pinimg|tumblr|giphy|vimeo|vimeocdn|dailymotion|flickr|staticflickr|soundcloud|sndcdn|scribd|scribdassets|sharethis|addthis|addthisedge|addthiscdn|reddit|redditmedia|redditstatic|redditgifts|linkedin|licdn|fontawesome|image-maps|cloudflare|bootstrapcdn|unpkg|cdnjs|stackpathdns|stackpathcdn|maxcdn|maxcdn-edge|netdna-ssl|netdna-cdn|kxcdn|ssl-cdn|muicss|tinymce|createjs|github|githubusercontent|aspnetcdn|azure|amazonaws|elasticbeanstalk|rackcdn|jwplayer|jwpcdn|jwpltx|jwpsrv|jwplatform|brightcove|brightcovecdn|flowplayer|foliovision|streamable|omnystudio|omnycontent|mixcloud|iheart|bandcamp|bcbits|podbean|buzzsprout|nobexpartners|podtail|spreaker|simplecast|spotify|vocaroo|embedly|iframely|snapwidget|thinglink|infogram|highcharts|printfriendly|algolianet|gravatar|unsplash|freepik|svgur|svgshare|icons8|iconfinder|iconarchive|iconscout|flaticon|kindpng|pngitem|imgur|imgflip|gifer|gfycat|tenor|disqus|disquscdn|disqusservice|oneall|oneallcdn|tapatalk|tapatalk-cdn|mapbox|maptiler|mapquest|arcgis|arcgisonline|esri|here|ted|tedcdn|kickstarter|riddle|strawpoll|9gag|9cache|imageshack|tinypic|photobox|photobucket|gifyu|makeagif|reactiongifs|gifbin|gif-finder|kym-cdn|gyazo|prntscr|pastebin|rawgit|rawgithub|knockoutjs|gridstackjs|ravenjs|liveleak|metacafe|mcstatic|ign|ignimgs|365scores|buzzfeed|digg|stumbleupon|mix|getpocket|blogspot|wordpress|wp|videopress|wptavern|livejournal|withgoogle|googlegroups|googleusercontent|googlevideo|ggpht|youtube-nocookie|appspot|firebaseio|firebaseapp|libring|hcaptcha|paypal|paypalobjects|amazon|media-amazon|media-imdb|ebay|apple|microsoft|live|bing|msn|yahoo|yimg|yahooapis|duckduckgo|yandex|webflow|rtlcss|dropbox|dropboxusercontent|dropboxstatic|dropbox-dns|timeanddate|momentjs|weather|accuweather|theweathernetwork|sat24|adobe|onesignal|livefyre|pushwoosh|tinypass|addtoany|addthisevent|addevent|addtocalendar|sumo|sumome|chatango|bitly|tinyurl|ipcamlive|playstation|discordapp|mixer|tiktok|tiktokcdn|muscdn|ibytedtos|deviantart|firefoxusercontent|box|feedly|feedburner|phpbb|vk|userapi|whatsapp|vroptimal-3dx-assets|bbc|cnn|nytimes|nyt|today|fifa|uefa|nba|turner|xkcd|mtvnservices|cc|tmz|bugsnag|zoro|hebcal|fontsproject|kayma|kayma-dashboards|kampyle|vicomi|openweb|kaltura|cincopa|avplayer|vidnt|peer5|h-cdn|bynetcdn|cdnwiz|best-tv|viewbix|streamrail|smv-cdn|cloudvideoplatform|waze|hunchbots|jeeng|cloudinary|sphereup|poloriz|applicaster|cloudwm|cloudwm-waf|negishim|accessibe|accessibeapp|acsbap|vollotech|mk-sense|shortaudition|spaceil|clear-map|adobedtm|virtualspirits|en25|segmanta|opinionstage|playbuzz|apester|qmerce|outbrain|taboola|taboolasyndication|googleoptimize|google-analytics|googletagservices|googletagmanager|googleadservices|googlesyndication|dynamicyield|scorecardresearch|serving-sys|chartbeat|exposebox|coralogix|loggly|bkrtx|optimizely|advertising|imrworldwide|connatix|fortvision|fortcdn|shopupz|aniview|spotxchange|pubmatic|checkm8|adnxs)\.com\.?([\/\:]|$))^[a-zA-Z0-9\-]+\:\/+[^\/\:]+\.com\.?([\/\:]|$)/$third-party,domain=sport5.co.il
+#/^(?#[a-zA-Z0-9\-]+\:\/+([^\/\:]+\.(il|com|net|org|gov|mil|edu|int|(ac|nhs)\.uk)|[\.0-9]+|([^\/\:\.]+\.)*(spot\.im|spots\.im|omny\.fm|github\.io|socket\.io|codepen\.io|polyfill\.io|embed\.ly|iframe\.ly|infogr\.am|flourish\.studio|flourish\.rocks|uri\.sh|po\.st|plyr\.io|periscope\.tv|pscp\.tv|vine\.co|popkey\.co|tenor\.co|redd\.it|ibb\.co|vgy\.me|postimg\.cc|imageshack\.us|prnt\.sc|imagesup\.co|weserv\.nl|telesco\.pe|powr\.io|simplecast\.fm|anchor\.fm|pippa\.io|last\.fm|scdn\.co|adobe\.io|lmao\.ninja|disease\.sh|twitch\.tv|vid\.me|h-cdn\.co|minute\.ly|vttp\.co|tldw\.me|feeder\.co|del\.icio\.us|telegram\.me|yandex\.ru|dailymail\.co\.uk|cnn\.io|bit\.ly|goo\.gl|g\.co|youtu\.be|t\.co|t\.me|fb\.me|m\.me|instagr\.am|wa\.me|amzn\.to|git\.io|docdro\.id|arcg\.is|ow\.ly|disq\.us|tiny\.cc|ex\.co|nagishly\.co|user1st\.info|logidea\.info|zoomanalytics\.co|firstimpression\.io|rtk\.io|gemius\.pl|adocean\.pl|activetrail\.biz|snackly\.co))\.?([\/\:]|$))^[^\/\:\.]+\:\/+[^\/\:\.]/$third-party,domain=sport5.co.il
+#/^[a-zA-Z0-9\-]+\:\/+[\.0-9]+([\/\:]|$)/$image,media,script,stylesheet,subdocument,third-party,domain=sport5.co.il
+#
+127.0.0.1	 sport5.co.il^$websocket,~third-party,domain=sport5.co.il
+#
+127.0.0.1	 g-static.gdn,domain=sport5.co.il
+127.0.0.1	 shopupz.com,domain=sport5.co.il
+127.0.0.1	 sport5.co.il/banners2/
+127.0.0.1	 sporty.gdn,domain=sport5.co.il
+127.0.0.1	 sporty.gdn,domain=sport5.co.il
+# * ONE * #
+127.0.0.1	 ads.one.co.il^
+# * Tapuz, Flix * #
+127.0.0.1	 biz.tapuz.co.il/iframes/ForumMessageBanner.aspx
+127.0.0.1	 tapuz.co.il/Forums2008/JS/replaceLinks.js
+127.0.0.1	 tapuz.co.il/Forums2008/googleInTreeFrame.html
+127.0.0.1	 tapuz.co.il/Forums2008/outMaavaron.aspx
+127.0.0.1	 tapuz.co.il/communa/merlin_
+127.0.0.1	 tapuz.co.il/vilonBanner/
+127.0.0.1	 tapuz.co.il^*CloseBanner.gif
+# * inn.co.il * #
+127.0.0.1	 inn.co.il^$websocket,~third-party,domain=inn.co.il
+#
+127.0.0.1	 a7.org/*.html$subdocument,domain=inn.co.il
+127.0.0.1	 a7.org/CDN/sdk
+127.0.0.1	 a7.org/adblock/
+127.0.0.1	 a7.org/media$script,xmlhttprequest
+127.0.0.1	 a7.org/scripts/Maavaron.js
+127.0.0.1	 a7.org^$script,domain=inn.co.il
+127.0.0.1	 dwnmedia.a7.org/inntv/media/
+127.0.0.1	 info.a7.org^$domain=inn.co.il
+127.0.0.1	 inn.co.il/info_en/
+127.0.0.1	 inn.co.il/leads/content/upload/
+127.0.0.1	 inn.co.il/leads/view/$popup
+127.0.0.1	 leads.tips,domain=inn.co.il
+#
+&type=pop|$popup,third-party,domain=inn.co.il
+&utm_campaign=$popup,third-party,domain=inn.co.il
+&utm_content=popup&$popup,third-party,domain=inn.co.il
+&utm_medium=banner&$popup,third-party,domain=inn.co.il
+/campaigns.$popup,third-party,domain=inn.co.il
+/landpage.*?utm_$popup,third-party,domain=inn.co.il
+/leads.$popup,third-party,domain=inn.co.il
+/leads/*$popup,third-party,domain=inn.co.il
+# * Kipa.co.il * #
+127.0.0.1	 daatariel.org.il/kipa/$popup,domain=kipa.co.il
+127.0.0.1	 kipa.co.il/banner/
+127.0.0.1	 kipa.co.il/minisites/go.asp$popup
+127.0.0.1	 kipa.co.il/userFiles/moodaot$domain=kipa.co.il
+127.0.0.1	 kipasruga.com/banner/
+127.0.0.1	 landing.kipa.co.il/?id=$popup
+127.0.0.1	 the.sweets-jar.com/?id=$popup,domain=kipa.co.il
+# * 20il.co.il * #
+127.0.0.1	 20il.co.il^$websocket,~third-party,domain=20il.co.il
+# * zap group * #
+127.0.0.1	 ban.d-group.co.il/banners/$third-party
+127.0.0.1	 cdn1.zoomanalytics.co/js$script,domain=zap.co.il
+127.0.0.1	 madas-ads.securest.org
+# * yad2 * #
+|blob:$domain=homeprices.yad2.co.il|my.yad2.co.il|pricelist.yad2.co.il|www.yad2.co.il|yad1.yad2.co.il
+#
+127.0.0.1	 yad2.co.il^$websocket,~third-party,domain=homeprices.yad2.co.il|my.yad2.co.il|pricelist.yad2.co.il|www.yad2.co.il|yad1.yad2.co.il
+#
+*$webrtc,domain=yad2.co.il
+#
+127.0.0.1	 my.yad2.co.il/Banner/
+127.0.0.1	 my.yad2.co.il/dfpV3/script/DesktopMediaManager.js
+127.0.0.1	 yad2.co.il/js-new/blockPirsum.js
+# * Bizportal * #
+127.0.0.1	 www.bizportal.co.il^$websocket,~third-party,domain=www.bizportal.co.il
+#
+127.0.0.1	 banners*.bizportal.co.il^
+127.0.0.1	 banners.bizportal.co.il^$popup
+127.0.0.1	 bizportal.co.il/Scripts/maavaron.js?v=
+127.0.0.1	 s3.amazonaws.com^$script,domain=bizportal.co.il
+# * FXP * #
+127.0.0.1	 fxp.co.il/skinfxp/*.php$script,image
+127.0.0.1	 images.fxp.co.il^$subdocument
+127.0.0.1	 widget.walla.co.il/wallaplayer$subdocument,third-party,domain=fxp.co.il
+# * Rotter.net * #
+127.0.0.1	 rotter.name/*.html$subdocument,domain=rotter.name|rotter.net
+127.0.0.1	 rotter.net/*.html$subdocument,domain=rotter.name|rotter.net
+127.0.0.1	 rotter.net/banners/
+127.0.0.1	 rotter.net/edit/text/
+# * IsraMedia * #
+127.0.0.1	 rover.ebay.com/rover/*&campid=$popup,third-party,domain=isramedia.net
+# * SeretHD * #
+#/^https?:\/+(?#(\/*([a-zA-Z0-9\-]+\.)*(google|gstatic|googleapis|jquery|youtube|dailymotion|vimeo|facebook|twitter|cloudflare|bootstrapcdn|unpkg|fontawesome|google-analytics|googletagmanager|googletagservices)\.com\.?(\/|:|$)))([a-zA-Z0-9\-]+\.)*[a-zA-Z0-9\-]{4,63}\.com\.?(\/|:|$)/$script,third-party,domain=serethd.net
+# * TVil * #
+#/^https?:\/+(?#(\/*([a-zA-Z0-9\-]+\.)*(google|gstatic|googleapis|jquery|youtube|dailymotion|vimeo|facebook|twitter|cloudflare|bootstrapcdn|unpkg|fontawesome|google-analytics|googletagmanager|googletagservices)\.com\.?(\/|:|$)))([a-zA-Z0-9\-]+\.)*[a-zA-Z0-9\-]{4,63}\.com\.?(\/|:|$)/$script,third-party,domain=keif.li|tvil.li|tvil.live|tvil.me|tvil.nl|tvil.pw
+# * Artimedia * #
+/(\/|\.)[a-fA-F0-9]{32}\.com\.?([\/\:]|$)/$media,script,subdocument,xmlhttprequest,third-party
+/amsdk.js$script,xmlhttprequest,domain=0404.co.il|13news.co.il|13tv.co.il|20il.co.il|calcalist.co.il|globes.co.il|inn.co.il|mako.co.il|tapuz.co.il|walla.co.il
+127.0.0.1	 advsnx.net,domain=0404.co.il|13news.co.il|13tv.co.il|20il.co.il|calcalist.co.il|globes.co.il|inn.co.il|mako.co.il|tapuz.co.il|walla.co.il
+#
+#--------------------------1st party blocking rules---------------------------#
+#
+127.0.0.1	 2eat.co.il/banner/
+127.0.0.1	 auto.co.il/Banner
+127.0.0.1	 auto.co.il/Base/UserControls/Banner/IframeBanner.aspx?
+127.0.0.1	 banners.news1.co.il^
+127.0.0.1	 banners.news1.co.il^$popup
+127.0.0.1	 beaverscripts.com/openwindow.js
+127.0.0.1	 beok.co.il/banners/
+127.0.0.1	 bladna.co.il/Public/flash/
+127.0.0.1	 cdn.shorte.st/link-converter.min.js
+127.0.0.1	 ch10.co.il/wp-content/plugins/arti-banners/components/arti-banner-popup/
+127.0.0.1	 gear.co.il/Content/MediaItems/Campaigns/
+127.0.0.1	 goo.gl^$popup,domain=kikar.co.il
+127.0.0.1	 googleusercontent.com^$domain=trusted-software.com
+127.0.0.1	 haflla.com/download/banners/
+127.0.0.1	 hometheater.co.il/opx/
+127.0.0.1	 hometheater.co.il/pir/
+127.0.0.1	 hwzone.co.il/jobs/
+127.0.0.1	 jobmaster.co.il/code/kot/$object
+127.0.0.1	 jobmaster.co.il/images/banners/
+127.0.0.1	 kikarhashabat.co.il/data/auto/images/landing_pages_
+127.0.0.1	 leadim4u.com/accounts/default1/banners/
+127.0.0.1	 local.co.il/banners/
+127.0.0.1	 negishim.com/accessibility/
+127.0.0.1	 onlife.co.il/dbcads/
+127.0.0.1	 player.vimeo.com/video/383596619|$subdocument,domain=ch10.co.il
+127.0.0.1	 psakdin.co.il/Pictures/Banners/
+127.0.0.1	 raddar.co.il/bannersa.php
+127.0.0.1	 seret.co.il/images/banners/pagehasut/PageHasut
+127.0.0.1	 shoofoo.co.il/banners
+127.0.0.1	 static.vgames.co.il/cdn/css/global.bg_comm.css?v=
+127.0.0.1	 takana.co.il^$image,third-party
+127.0.0.1	 wcdn.co.il/banners/
+#
+127.0.0.1	 netform.co.il,domain=0-15.co.il|2b-bari.co.il|50plus.co.il|abortion.org.il|acnecenter.co.il|add-syndrome.co.il|allergy.org.il|alzheimer.co.il|asthma.org.il|autism.org.il|bariatric.org.il|blinds.org.il|blood.co.il|burn.org.il|candidafree.co.il|cfs.org.il|cholesterol.org.il|cold.co.il|colon.org.il|commitment.org.il|committee.co.il|degeneration.co.il|dementia.co.il|dermatology.co.il|dialysis.org.il|ear.org.il|east-west.co.il|ent.org.il|epilepsy.co.il|feeling.co.il|fms.org.il|gastro-israel.org.il|genes.co.il|human.co.il|hyperhidrosis.org.il|iaawh.co.il|ibd.org.il|ifeel.co.il|ilsi.org.il|immunology.org.il|implants.org.il|ioh.org.il|isala.org.il|israrights.com|le-la.co.il|linshom.org.il|liver.org.il|lung.org.il|lupus.org.il|maane.co.il|matnachim.co.il|matnachim.org.il|medicalcannabis.co.il|mifrakim.co.il|multiplesclerosis.org.il|my-rights.org.il|myeyes.co.il|myhealth.co.il|myheart.co.il|myrights.co.il|nashy.co.il|neurology.org.il|noga.org.il|obesity.org.il|oncology.org.il|pain.org.il|parkinsons.org.il|pediatrics.co.il|pigur.co.il|pso.org.il|psychiatrist.org.il|psychiatry.org.il|stdinfo.co.il|stroke.org.il|sukarti.co.il|takana.co.il|tevalife.co.il|urinary.co.il|urine.org.il|voices.co.il|womenonly.co.il
+127.0.0.1	 virtualspirits.com,domain=0-15.co.il|2b-bari.co.il|50plus.co.il|abortion.org.il|acnecenter.co.il|add-syndrome.co.il|allergy.org.il|alzheimer.co.il|asthma.org.il|autism.org.il|bariatric.org.il|blinds.org.il|blood.co.il|burn.org.il|candidafree.co.il|cfs.org.il|cholesterol.org.il|cold.co.il|colon.org.il|commitment.org.il|committee.co.il|degeneration.co.il|dementia.co.il|dermatology.co.il|dialysis.org.il|ear.org.il|east-west.co.il|ent.org.il|epilepsy.co.il|feeling.co.il|fms.org.il|gastro-israel.org.il|genes.co.il|human.co.il|hyperhidrosis.org.il|iaawh.co.il|ibd.org.il|ifeel.co.il|ilsi.org.il|immunology.org.il|implants.org.il|ioh.org.il|isala.org.il|israrights.com|le-la.co.il|linshom.org.il|liver.org.il|lung.org.il|lupus.org.il|maane.co.il|matnachim.co.il|matnachim.org.il|medicalcannabis.co.il|mifrakim.co.il|multiplesclerosis.org.il|my-rights.org.il|myeyes.co.il|myhealth.co.il|myheart.co.il|myrights.co.il|nashy.co.il|neurology.org.il|noga.org.il|obesity.org.il|oncology.org.il|pain.org.il|parkinsons.org.il|pediatrics.co.il|pigur.co.il|pso.org.il|psychiatrist.org.il|psychiatry.org.il|stdinfo.co.il|stroke.org.il|sukarti.co.il|takana.co.il|tevalife.co.il|urinary.co.il|urine.org.il|voices.co.il|womenonly.co.il
+127.0.0.1	 whats-new.co.il,domain=0-15.co.il|2b-bari.co.il|50plus.co.il|abortion.org.il|acnecenter.co.il|add-syndrome.co.il|allergy.org.il|alzheimer.co.il|asthma.org.il|autism.org.il|bariatric.org.il|blinds.org.il|blood.co.il|burn.org.il|candidafree.co.il|cfs.org.il|cholesterol.org.il|cold.co.il|colon.org.il|commitment.org.il|committee.co.il|degeneration.co.il|dementia.co.il|dermatology.co.il|dialysis.org.il|ear.org.il|east-west.co.il|ent.org.il|epilepsy.co.il|feeling.co.il|fms.org.il|gastro-israel.org.il|genes.co.il|human.co.il|hyperhidrosis.org.il|iaawh.co.il|ibd.org.il|ifeel.co.il|ilsi.org.il|immunology.org.il|implants.org.il|ioh.org.il|isala.org.il|israrights.com|le-la.co.il|linshom.org.il|liver.org.il|lung.org.il|lupus.org.il|maane.co.il|matnachim.co.il|matnachim.org.il|medicalcannabis.co.il|mifrakim.co.il|multiplesclerosis.org.il|my-rights.org.il|myeyes.co.il|myhealth.co.il|myheart.co.il|myrights.co.il|nashy.co.il|neurology.org.il|noga.org.il|obesity.org.il|oncology.org.il|pain.org.il|parkinsons.org.il|pediatrics.co.il|pigur.co.il|pso.org.il|psychiatrist.org.il|psychiatry.org.il|stdinfo.co.il|stroke.org.il|sukarti.co.il|takana.co.il|tevalife.co.il|urinary.co.il|urine.org.il|voices.co.il|womenonly.co.il
+#
+#--------------------------SPAM SITES blocking rules--------------------------#
+#
+###HiddenMovie > [src^="http://www.youtube.com"] + #video-blocker
+##.entry > .entry-inner > .wpvl.wpvl-youtube.ng-scope.size-l
+##.wpvl.wpvl-dailymotion > .fblogin.lockoverlay.ng-scope
+##.wpvl.wpvl-youtube.ng-scope.size-xl > .ng-scope + .fblogin.lockoverlay.ng-scope
+##.wpvl.wpvl-youtube.ng-scope.size-xxl > [ng-show="#blocked"] + * + .ng-scope + .fblogin.lockoverlay.ng-scope
+127.0.0.1	 asface.pw
+127.0.0.1	 balimon.info
+127.0.0.1	 bitys.pw
+127.0.0.1	 bobuzz.com
+127.0.0.1	 dealclick.pw
+127.0.0.1	 dealsclubspecial.pw
+127.0.0.1	 dubim.net
+127.0.0.1	 faceu.us
+127.0.0.1	 freeoffers.co.il
+127.0.0.1	 fringantlarn8.live
+127.0.0.1	 gbuzz.net
+127.0.0.1	 gefun.net
+127.0.0.1	 gubuzz.com
+127.0.0.1	 hagdolim.info
+127.0.0.1	 hasdarot.com
+127.0.0.1	 hasdarot.net
+127.0.0.1	 iastrology.net
+127.0.0.1	 ilbuzz.net
+127.0.0.1	 israfun.net
+127.0.0.1	 jobuzz.net
+127.0.0.1	 kelocote.prpl.co.il
+127.0.0.1	 kurtgeigers.co
+127.0.0.1	 lauyn.info
+127.0.0.1	 lead.foxweb.co.il
+127.0.0.1	 lools.info
+127.0.0.1	 losittooday.info
+127.0.0.1	 lp.infopage.co.il
+127.0.0.1	 lp.playsmart.co.il
+127.0.0.1	 lyfun.net
+127.0.0.1	 lyplay.net
+127.0.0.1	 madlik.info
+127.0.0.1	 magnivim.info
+127.0.0.1	 metador.info
+127.0.0.1	 mklrty.info
+127.0.0.1	 movitop.info
+127.0.0.1	 mporli.info
+127.0.0.1	 myvod.me
+127.0.0.1	 sdarotil.top
+127.0.0.1	 seret.live
+127.0.0.1	 shaardollar.co.il
+127.0.0.1	 sirtoonim.info
+127.0.0.1	 stomi.info
+127.0.0.1	 topfliightss.net
+127.0.0.1	 tukid.info
+127.0.0.1	 ugbuzz.net
+127.0.0.1	 usbuzz.net
+127.0.0.1	 vebuzz.net
+127.0.0.1	 vefun.net
+127.0.0.1	 view-movies.co.il
+127.0.0.1	 viral4buzz.net
+127.0.0.1	 vodmovies.co.il
+127.0.0.1	 vodx.co.il
+127.0.0.1	 vodxil.com
+127.0.0.1	 wacdfrt.info###video-blocker
+127.0.0.1	 worldhotnews.net
+127.0.0.1	 yosle.info
+127.0.0.1	 youlim.info
+127.0.0.1	 zegvid.com
+127.0.0.1	 zegvid.net
+127.0.0.1	 alipim.net^
+127.0.0.1	 cooldays.net/app/vod-blocker$script
+127.0.0.1	 fringantlarn8.live^
+127.0.0.1	 hasdarot.com^
+127.0.0.1	 hasdarot.net^
+127.0.0.1	 lauyn.info^
+127.0.0.1	 losittooday.info^
+127.0.0.1	 mporli.info^
+127.0.0.1	 sdarotil.top^
+127.0.0.1	 seret.live^
+#
+#----------------------Whitelists to fix broken sites-------------------------#
+#
+127.0.0.1	 13news.co.il^$generichide
+127.0.0.1	 13tv.co.il^$generichide
+127.0.0.1	 b-share.com^$generichide
+127.0.0.1	 bigbroil.com^$generichide
+127.0.0.1	 charterjetsinfo.com^$generichide
+127.0.0.1	 haaretz.co.il^$generichide
+127.0.0.1	 inn.co.il^$generichide
+127.0.0.1	 isramedia.net^$generichide
+127.0.0.1	 kml.co.il^$generichide
+127.0.0.1	 leava.co.il^$generichide
+127.0.0.1	 madridista.co.il^$generichide
+127.0.0.1	 nifgashim.net^$generichide
+127.0.0.1	 nir-oz.blogspot.co.il^$generichide
+127.0.0.1	 nir-oz.blogspot.com^$generichide
+127.0.0.1	 pitaronfree.blogspot.co.il^$generichide
+127.0.0.1	 pitaronfree.blogspot.com^$generichide
+127.0.0.1	 shmua.com^$generichide
+127.0.0.1	 sport5.co.il^$generichide
+127.0.0.1	 themarker.com^$generichide
+127.0.0.1	 weather2day.co.il^$generichide
+#
+/ads.js?$script,~third-party,domain=13news.co.il|13tv.co.il
+/ads.min.js?$script,~third-party,domain=13news.co.il|13tv.co.il
+/adunits.$script,~third-party,domain=13news.co.il|13tv.co.il
+/advert.$image,domain=13news.co.il|13tv.co.il
+/advertisement.$script,xmlhttprequest,domain=haaretz.co.il|mouse.co.il|themarker.com
+/dfp/*$script,xmlhttprequest,domain=haaretz.co.il|mouse.co.il|themarker.com
+?pageurl=$xmlhttprequest,third-party,domain=sdarot.casa|sdarot.life|sdarot.pm|sdarot.pro|sdarot.rocks|sdarot.services|sdarot.today|sdarot.tv|sdarot.video|sdarot.website|sdarot.work|sdarot.world
+127.0.0.1	 2mdn.net/instream/video/client.js$domain=mako.co.il
+127.0.0.1	 a7.org/Combine.js$script,domain=inn.co.il
+127.0.0.1	 a7.org/cab/*.min.js$script,domain=inn.co.il
+127.0.0.1	 a7.org/scripts/Forecast.js$script,domain=inn.co.il
+127.0.0.1	 a7.org/scripts/jquery/$script,domain=inn.co.il
+127.0.0.1	 a7.org/scripts/mosaic_$script,domain=inn.co.il
+127.0.0.1	 admedia.com/images/cross_channel_arrows.png$image,domain=isramedia.net
+127.0.0.1	 ads.yad2.co.il/adPic.png$image
+127.0.0.1	 adservice.google.co.il/adsid/integrator.js?$script,domain=13news.co.il|13tv.co.il
+127.0.0.1	 adservice.google.com/adsid/integrator.js?$script,domain=13news.co.il|13tv.co.il
+127.0.0.1	 adtest.advsnx.net^*?$xmlhttprequest,domain=playern.sport5.co.il
+127.0.0.1	 akamai.advsnx.net/CDN/$domain=kikar.co.il
+127.0.0.1	 akamai.advsnx.net/CDN/arutz7/$script
+127.0.0.1	 akamai.advsnx.net/CDN/israelhayom/html5/amsdk.js$script,domain=israelhayom-cdnwiz.com|israelhayom.co.il
+127.0.0.1	 akamai.advsnx.net/CDN/reshet/html5/amsdk.js$script,domain=13news.co.il|13tv.co.il
+127.0.0.1	 akamai.advsnx.net/CDN/sdk/*-min.js?$script,domain=mako.co.il
+127.0.0.1	 akamai.advsnx.net/CDN/sdk/plugins/*/plugin.js$script,domain=israelhayom-cdnwiz.com|israelhayom.co.il
+127.0.0.1	 akamai.advsnx.net/CDN/sdk/plugins/kaltura/plugin.js$script,domain=13news.co.il|13tv.co.il|israelhayom-cdnwiz.com|israelhayom.co.il
+127.0.0.1	 akamai.advsnx.net/CDN/sdk/plugins/vjs/plugin.js$script,domain=hamal.co.il|sheee.co.il|walla.co.il
+127.0.0.1	 akamai.advsnx.net/CDN/sdk/system-scripts/sys-moat.js$script,domain=mako.co.il
+127.0.0.1	 akamai.advsnx.net/CDN/walla/
+127.0.0.1	 akamai.advsnx.net/crossdomain.xml$domain=one.co.il|walla.co.il
+127.0.0.1	 akamai.advsnx.net^$xmlhttprequest,domain=mako.co.il
+127.0.0.1	 analytics.edgekey.net/ma_library/javascript/javascript_malibrary.js$script,domain=deltatre.net
+127.0.0.1	 b-share.com/wp-content/*/advertisement.$script,~third-party
+127.0.0.1	 baligam.go2cloud.org^$popup,domain=getitall.co.il
+127.0.0.1	 banners.hosting-il.com^$domain=cinema-city.co.il|cinemacity.co.il
+127.0.0.1	 bhol.co.il/Flash/vaad
+127.0.0.1	 bhol.co.il/imagebank/400x250
+127.0.0.1	 bipbip.co.il/Images/Ads/$~third-party
+127.0.0.1	 bipbip.co.il/Style/Ads.css
+127.0.0.1	 bitsngo.net/widget-scripts/zoomd.widget.logger.$script
+127.0.0.1	 cdnjs.cloudflare.com/ajax/libs/videojs-contrib-ads/$script,domain=hamal.co.il|sheee.co.il|walla.co.il
+127.0.0.1	 cdnwiz.com/ads.js$xmlhttprequest
+127.0.0.1	 clalit.co.il/AdImages
+127.0.0.1	 errors.snackly.co/_.gif|$xmlhttprequest,domain=ynet.co.il
+127.0.0.1	 forbes.co.il/download/banners/
+127.0.0.1	 globes.co.il/js/ads.js
+127.0.0.1	 globes.co.il/news/inc/banners/show_ads.js
+127.0.0.1	 googlesyndication.com/pagead/osd.js$domain=haaretz.co.il|themarker.com
+127.0.0.1	 googletagservices.com/tag/js/gpt.js$domain=13news.co.il|13tv.co.il|nifgashim.net
+127.0.0.1	 gplanet.co.il/js/adx.js
+127.0.0.1	 haaretz.co.il/htz/css/teasers.css?$stylesheet
+127.0.0.1	 haaretz.co.il/htz/images/favicon-160x160.png
+127.0.0.1	 haaretz.co.il/htz/images/logos/htz-logo.v2.svg
+127.0.0.1	 haaretz.co.il/htz/js/resp/minified/header-scripts-int.js
+127.0.0.1	 haaretz.co.il/polopoly_fs/*/landscape$image,domain=haaretz.co.il|themarker.com
+127.0.0.1	 haaretz.co.il/polopoly_fs/*/size$image,domain=haaretz.co.il|themarker.com
+127.0.0.1	 haaretz.co.il/st/c/$image,domain=haaretz.co.il|themarker.com
+127.0.0.1	 haaretz.co.il/st/c/work/AB/aby.gif
+127.0.0.1	 haaretz.co.il^$xmlhttprequest,domain=haaretz.co.il|mouse.co.il|themarker.com
+127.0.0.1	 hamal.co.il/public/assets/ads/$stylesheet,~third-party
+127.0.0.1	 holmesplace.co.il/sites/all/modules$domain=holmesplace.co.il
+127.0.0.1	 hwzone.co.il/wp-content/plugins/wpadverts/assets/js/adverts-frontend.js$script,~third-party
+127.0.0.1	 i.total-media.net/yc/dc.$script,domain=winwin.co.il
+127.0.0.1	 iconfinder.com/data/$image,domain=nir-oz.blogspot.co.il|nir-oz.blogspot.com
+127.0.0.1	 imaot.co.il/Recipe/$xmlhttprequest
+127.0.0.1	 imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=sdarot.casa|sdarot.life|sdarot.pm|sdarot.pro|sdarot.rocks|sdarot.services|sdarot.today|sdarot.tv|sdarot.video|sdarot.website|sdarot.work|sdarot.world
+127.0.0.1	 imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=ynet.co.il
+127.0.0.1	 info.a7.org/info/a7delivery_f.php$script,domain=inn.co.il
+127.0.0.1	 info.a7.org/info/delivery/lg*.php?$image,domain=inn.co.il
+127.0.0.1	 info.jdn.co.il/r/a7delivery_f.php?func=fLoadOne$script
+127.0.0.1	 israelsport.co.il/digiweb/userfiles/images/Ads/Getty$image
+127.0.0.1	 isramedia.net/ads.js$script,~third-party
+127.0.0.1	 isramedia.net/images/header/$image,~third-party
+127.0.0.1	 jdn.co.il/wp-content/plugins/jdn_ads/js/info.css$stylesheet
+127.0.0.1	 jdn.co.il/wp-content/plugins/jdn_ads/js/info.js$script
+127.0.0.1	 kikar.co.il/js/ads.js
+127.0.0.1	 lb.advsnx.net/AdServer/?ZoneID=$domain=mako.co.il
+127.0.0.1	 lb.advsnx.net/as$domain=mako.co.il
+127.0.0.1	 lb.advsnx.net/crossdomain.xml$domain=mako.co.il
+127.0.0.1	 mako.co.il/js/dfp/dfp.js$script,domain=mako.co.il
+127.0.0.1	 matrix.ynet.co.il/JS/GA/ads_controller.js
+127.0.0.1	 mouse.co.il^$xmlhttprequest,domain=haaretz.co.il|mouse.co.il|themarker.com
+127.0.0.1	 old-games.org^$document
+127.0.0.1	 one.co.il^$xmlhttprequest
+127.0.0.1	 pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=sport5.co.il
+127.0.0.1	 pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=isramedia.net|mako.co.il|sport5.co.il
+127.0.0.1	 pagead2.googlesyndication.com/pagead/show_ads.js$domain=pitaronfree.blogspot.co.il|pitaronfree.blogspot.com
+127.0.0.1	 partner.googleadservices.com/gpt/pubads_$script,domain=13news.co.il|13tv.co.il|haaretz.co.il|one.co.il|themarker.com
+127.0.0.1	 pas-rahav.com/creativitys
+127.0.0.1	 pas-rahav.com^$domain=cinema-city.co.il|cinemacity.co.il
+127.0.0.1	 player.bizportal.co.il/Handlers/Advertising.ashx?$xmlhttprequest
+127.0.0.1	 pro.ip-api.com/json$xmlhttprequest,domain=sheee.co.il|walla.co.il
+127.0.0.1	 pubads.g.doubleclick.net/gampad/ad$domain=ynet.co.il
+127.0.0.1	 pubads.g.doubleclick.net/gampad/ads?ad_rule=$domain=mako.co.il
+127.0.0.1	 pubads.g.doubleclick.net/gampad/adx?iu=$domain=mako.co.il
+127.0.0.1	 qamesh.com/Images/advert.png
+127.0.0.1	 rcs.mako.co.il/js/ads.js$script,xmlhttprequest
+127.0.0.1	 resources.blogblog.com^$image,domain=nir-oz.blogspot.co.il|nir-oz.blogspot.com
+127.0.0.1	 s3.kikar.net/js/jquery.dfp.js$domain=kikar.co.il
+127.0.0.1	 securepubads.g.doubleclick.net/gampad/ads?$image,xmlhttprequest,domain=sport5.co.il
+127.0.0.1	 securepubads.g.doubleclick.net/gampad/ads?gdfp_$script,domain=13news.co.il|13tv.co.il|nifgashim.net
+127.0.0.1	 securepubads.g.doubleclick.net/gpt/$script,domain=13news.co.il|13tv.co.il|nifgashim.net
+127.0.0.1	 sekindo.com/content/pop/SekindoPopunderOverlay-$object,domain=kikar.co.il
+127.0.0.1	 sfx-images.mozilla.org^$image
+127.0.0.1	 sheee.co.il/public/assets/videojsads/videojs-contrib-ads.$stylesheet,~third-party
+127.0.0.1	 shukitv.ucoz.com/script/ads.js
+127.0.0.1	 sport5.co.il^*/dfp.$script,~third-party
+127.0.0.1	 sport5.co.il^*/dfp/$script,~third-party
+127.0.0.1	 static.sdarot.*^*/plugins/*/videojs.ads.$script,stylesheet,~third-party,domain=sdarot.casa|sdarot.life|sdarot.pm|sdarot.pro|sdarot.rocks|sdarot.services|sdarot.today|sdarot.tv|sdarot.video|sdarot.website|sdarot.work|sdarot.world
+127.0.0.1	 taimeod.co.il^$document
+127.0.0.1	 themarker.com/Images/negative.png$image,domain=haaretz.co.il|themarker.com
+127.0.0.1	 themarker.com/Images/positive.png$image,domain=haaretz.co.il|themarker.com
+127.0.0.1	 themarker.com/st/c/prod/tm/2017/donorsMap/
+127.0.0.1	 themarker.com^$xmlhttprequest,domain=haaretz.co.il|mouse.co.il|themarker.com
+127.0.0.1	 thetvdb.com/banners/$image,domain=wizdom.xyz
+127.0.0.1	 tornado-top.co.il/template/images/
+127.0.0.1	 tpc.googlesyndication.com/simgad/$xmlhttprequest,domain=haaretz.co.il|themarker.com
+127.0.0.1	 translate.google.*/gen204?$image,domain=maccabi4u.co.il
+127.0.0.1	 trc.taboola.com/globes-il/$script
+127.0.0.1	 walla.co.il/public/assets/videojsads/videojs-contrib-ads.$stylesheet,~third-party
+127.0.0.1	 weather2day.co.il/ads.js?$script,~third-party
+127.0.0.1	 xads.zedo.com^$popup,domain=one.co.il
+127.0.0.1	 yad2.co.il/ads.js$script
+127.0.0.1	 ynet.co.il/Common/Api/Scripts/video/videojs.ads.$script,stylesheet,~third-party
+127.0.0.1	 ynet.co.il/dc/dcLoadAds/$script,domain=ynet.co.il
+#
+#------------Whitelists element hiding rules to fix broken sites--------------#
+#
+
+#
+#---------------------------------Mobile Ads----------------------------------#
+#
+127.0.0.1	 admin.applicaster.com/v12//7047/Channel0_Android_Banners
+127.0.0.1	 apps.mako.co.il/mobile/config/android/sport5/ad_config.xml
+127.0.0.1	 apps.mako.co.il/mobile/config/android/sport5/banner_config.xml
+127.0.0.1	 fus.walla.co.il/json/5804468/mint.walla_android.homepage/spons
+127.0.0.1	 images.yad2.co.il/Pic/yad2new/homepage_promotions/prom
+127.0.0.1	 live.sekindo.com/uploads/users/*/ads/
+127.0.0.1	 m.sport5.co.il/Images/DreamTeam320X40.png
+127.0.0.1	 resources.fortvision.com/staticfiles
+127.0.0.1	 sport5.co.il/cm8ads/
+127.0.0.1	 static.fortvision.com/staticfiles/fb-web/
+#
+#-------------------------Mobile element hiding rules-------------------------#
+#
+#
+#------------------------------Mobile Whitelist-------------------------------#
+#
+127.0.0.1	 ampproject.org/amp4ads
+127.0.0.1	 yad2.co.il/assets/mobile/ui/adpage/
+#
+#----------------------------Element hiding rules-----------------------------#
+#
+# *** Multiple domains *** 
